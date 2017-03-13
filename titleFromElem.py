@@ -1,7 +1,7 @@
-
+#!/usr/bin/env python
 # coding: utf-8
+__author__      = "Marianne Reboul"
 
-# In[64]:
 
 import xml.etree.ElementTree as ET
 import copy
@@ -11,9 +11,7 @@ import xml.etree.ElementTree as ET
 import fnmatch
 from bs4 import BeautifulSoup
 
-
-# In[68]:
-
+#created the dictionary just in case
 ns = {'dc': 'http://purl.org/dc/elements/1.1/'}
 
 for idx, fileTemp in enumerate(fnmatch.filter(os.listdir(sys.argv), '*.xml')):
@@ -25,10 +23,3 @@ for idx, fileTemp in enumerate(fnmatch.filter(os.listdir(sys.argv), '*.xml')):
     f = open('./output/'+title+'.xml', 'w')
     f.write(tei)
     f.close()
-   
-
-
-# In[ ]:
-
-
-
