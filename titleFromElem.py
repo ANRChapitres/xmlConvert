@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 #created the dictionary just in case
 ns = {'dc': 'http://purl.org/dc/elements/1.1/'}
 
-for idx, fileTemp in enumerate(fnmatch.filter(os.listdir(sys.argv), '*.xml')):
+for fileTemp in fnmatch.filter(os.listdir(sys.argv), '*.xml'):
     tei = open(sys.argv+fileTemp).read()
     print (fileTemp)
     title=BeautifulSoup(tei).find('dc:date').text[:4]+'_'+BeautifulSoup(tei).find('dc:creator').text.replace(" ", "_")+'_'+BeautifulSoup(tei).find('dc:title').text.replace(" ", "_")
