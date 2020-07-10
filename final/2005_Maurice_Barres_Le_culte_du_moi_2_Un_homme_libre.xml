@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Le culte du moi 2 Un homme libre
+    </title>
+    <author from="2005" key="" name="Maurice Barrès" to="2005"/>
+    <edition n=""/>
+    <editor name="" where=""/>
+   </titleStmt>
+   <publicationStmt>
+    <date type="created" when="2005"/>
+    <date type="issued" when="2005"/>
+   </publicationStmt>
+   <editionStmt>
+    <profileDesc tag="canon" type="genre">
+     <textClass>
+      <keywords/>
+     </textClass>
+    </profileDesc>
+   </editionStmt>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docAuthor/>
+    <docTitle>
+     <titlePart main="Le culte du moi 2 Un homme libre"/>
+     <titlePart sub=""/>
+    </docTitle>
+   </titlePage>
+  </front>
+  <body>
+   <div title="LIVRE PREMIER" type="book">
+    <head>
+     LIVRE PREMIER
+    </head>
+   </div>
+   <div title="LIVRE DEUXIÈME" type="book">
+    <head>
+     LIVRE DEUXIÈME
+    </head>
+   </div>
+   <div title="LIVRE TROISIÈME" type="book">
+    <head>
+     LIVRE TROISIÈME
+    </head>
+   </div>
+   <div title="LIVRE QUATRIEME" type="book">
+    <head>
+     LIVRE QUATRIEME
+    </head>
+   </div>
+   <head/>
+  </body>
+  <back/>
+ </text>
+</TEI>

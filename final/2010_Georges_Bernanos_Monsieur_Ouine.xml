@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Monsieur Ouine
+    </title>
+    <author from="2010" key="" name="Georges Bernanos" to="2010"/>
+    <edition n=""/>
+    <editor name="" where=""/>
+   </titleStmt>
+   <publicationStmt>
+    <date type="created" when="2010"/>
+    <date type="issued" when="2010"/>
+   </publicationStmt>
+   <editionStmt>
+    <profileDesc tag="canon" type="genre">
+     <textClass>
+      <keywords>
+       <term/>
+      </keywords>
+     </textClass>
+    </profileDesc>
+   </editionStmt>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docAuthor/>
+    <docTitle>
+     <titlePart main="Monsieur Ouine"/>
+     <titlePart sub=""/>
+    </docTitle>
+   </titlePage>
+  </front>
+  <body>
+   <div title="eBook Info" type="chapter">
+    <head>
+     eBook Info
+    </head>
+    <lb/>
+    <seg>
+     Identifier:
+    </seg>
+    <quote rend="calibre20">
+     ENNRJOFCVK
+    </quote>
+    <lb/>
+    <seg>
+     Title:
+    </seg>
+    <quote rend="calibre20">
+     MONSIEUR OUINE
+    </quote>
+    <lb/>
+    <seg>
+     Creator:
+    </seg>
+    <quote rend="calibre20">
+     Georges Bernanos
+    </quote>
+    <lb/>
+    <seg>
+     Date:
+    </seg>
+    <quote rend="calibre20">
+     Janvier 2006
+    </quote>
+    <lb/>
+    <seg>
+     Copyrights:
+    </seg>
+    <quote rend="calibre20">
+     Groupe "Ebooks libres et gratuits" Cf "A propos"
+    </quote>
+    <lb/>
+    <seg>
+     Publisher:
+    </seg>
+    <quote rend="calibre20">
+     Groupe "Ebooks libres et gratuits" http://www.ebooksgratuits.com
+    </quote>
+    <lb/>
+   </div>
+   <div title="[1]" type="chapter">
+    <div rend="section" xml:id="filepos582746">
+     <p>
+      <ref rend="calibre9" target="MONSIEUR%20OUINE_split_004.html#_ftnref1" xml:id="_ftn1">
+       <seg>
+        <seg rend="calibre10">
+         <seg>
+          <seg rend="calibre11">
+           [1]
+          </seg>
+         </seg>
+        </seg>
+       </seg>
+      </ref>
+      Toile à laver, serpillière. (
+      <hi rend="italic">
+       Note du correcteur – ELG.)
+      </hi>
+     </p>
+    </div>
+    <head>
+     À propos de cette édition électronique
+    </head>
+    <p>
+     <seg>
+      <seg rend="calibre17">
+       Texte libre de droits.
+      </seg>
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre17">
+      Corrections, édition, conversion informatique et publication par le groupe :
+     </seg>
+    </p>
+    <p>
+     <seg>
+      <hi rend="italic">
+       <seg rend="calibre17">
+        Ebooks libres et gratuits
+       </seg>
+      </hi>
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre17">
+      <ref rend="calibre9" target="http://fr.groups.yahoo.com/group/ebooksgratuits">
+       <seg>
+        http://fr.groups.yahoo.com/group/ebooksgratuits
+       </seg>
+      </ref>
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre17">
+      Adresse du site web du groupe :
+      <lb/>
+      <seg>
+       <ref rend="calibre9" target="http://www.ebooksgratuits.com/">
+        http://www.ebooksgratuits.com/
+       </ref>
+      </seg>
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre17">
+      —
+     </seg>
+    </p>
+    <p>
+     <seg>
+      <seg rend="calibre17">
+       Janvier 2006
+      </seg>
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre17">
+      —
+     </seg>
+    </p>
+    <p>
+     <seg>
+      <seg rend="calibre18">
+       – Élaboration de ce livre électronique :
+      </seg>
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre17">
+      Les membres
+      <seg>
+       de Ebooks
+      </seg>
+      libres et gratuits qui ont participé à l’élaboration de ce livre, sont : David, Marie, Coolmicro et Fred.
+     </seg>
+    </p>
+    <p>
+     <seg>
+      <seg rend="calibre18">
+       – Dispositions :
+      </seg>
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre17">
+      Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement,
+      <seg rend="calibre19c2">
+       à une fin non commerciale et non professionnelle
+      </seg>
+      .
+      <seg>
+       Tout lien vers notre site est bienvenu…
+      </seg>
+     </seg>
+    </p>
+    <p>
+     <seg>
+      <seg rend="calibre18">
+       – Qualité :
+      </seg>
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre17">
+      Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l'original. Nous rappelons que c'est un travail d'amateurs non rétribués et que nous essayons de promouvoir la culture littéraire avec de maigres moyens.
+     </seg>
+    </p>
+    <p>
+     <seg rend="calibre18">
+     </seg>
+    </p>
+    <p>
+     <hi rend="italic">
+      <seg rend="calibre18">
+       Votre aide est la bienvenue !
+      </seg>
+     </hi>
+    </p>
+    <p>
+     <seg>
+      <seg rend="calibre17">
+       VOUS
+       <seg>
+        POUVEZ
+       </seg>
+       NOUS AIDER
+       <lb/>
+       À FAIRE CONNAÎTRE
+       <lb/>
+       CES
+       <seg>
+        CLASSIQUES
+       </seg>
+       <seg>
+        LITTÉRAIRES
+       </seg>
+       .
+      </seg>
+     </seg>
+    </p>
+    <head>
+     eBook Info
+    </head>
+    <lb/>
+    <seg>
+     Identifier:
+    </seg>
+    <quote rend="calibre20">
+     ENNRJOFCVK
+    </quote>
+    <lb/>
+    <seg>
+     Title:
+    </seg>
+    <quote rend="calibre20">
+     MONSIEUR OUINE
+    </quote>
+    <lb/>
+    <seg>
+     Creator:
+    </seg>
+    <quote rend="calibre20">
+     Georges Bernanos
+    </quote>
+    <lb/>
+    <seg>
+     Date:
+    </seg>
+    <quote rend="calibre20">
+     Janvier 2006
+    </quote>
+    <lb/>
+    <seg>
+     Copyrights:
+    </seg>
+    <quote rend="calibre20">
+     Groupe "Ebooks libres et gratuits" Cf "A propos"
+    </quote>
+    <lb/>
+    <seg>
+     Publisher:
+    </seg>
+    <quote rend="calibre20">
+     Groupe "Ebooks libres et gratuits" http://www.ebooksgratuits.com
+    </quote>
+    <lb/>
+   </div>
+   <head/>
+  </body>
+  <back/>
+ </text>
+</TEI>

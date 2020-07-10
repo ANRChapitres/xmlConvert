@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     La voie divine
+    </title>
+    <author from="2015" key="" name="Delly" to="2015"/>
+    <edition n=""/>
+    <editor name="" where=""/>
+   </titleStmt>
+   <publicationStmt>
+    <date type="created" when="2015"/>
+    <date type="issued" when="2015"/>
+   </publicationStmt>
+   <editionStmt>
+    <profileDesc tag="canon" type="genre">
+     <textClass>
+      <keywords/>
+     </textClass>
+    </profileDesc>
+   </editionStmt>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docAuthor/>
+    <docTitle>
+     <titlePart main="La voie divine"/>
+     <titlePart sub=""/>
+    </docTitle>
+   </titlePage>
+  </front>
+  <body>
+   <div title="I" type="chapter">
+    <p>
+     <seg rend="t3">
+      Delly
+     </seg>
+    </p>
+    <lb/>
+    <lb/>
+    <lb/>
+    <lb/>
+    <lb/>
+    <p>
+     <seg rend="t5">
+      La voie divine
+     </seg>
+    </p>
+    <lb/>
+    <p>
+     nouvelle
+    </p>
+    <lb/>
+    <lb/>
+    <lb/>
+    <lb/>
+    <p>
+     La Bibliothèque électronique du Québec
+    </p>
+    <p>
+     <seg rend="t8">
+      Collection
+     </seg>
+     <seg rend="t4">
+      Classiques du 20
+     </seg>
+     <seg rend="t10">
+      e
+     </seg>
+     <seg rend="t4">
+      siècle
+     </seg>
+    </p>
+    <p>
+     Volume 241 : version 1.0
+    </p>
+    <lb/>
+    <lb/>
+    <p>
+     Des mêmes auteurs, à la Bibliothèque :
+    </p>
+    <lb/>
+    <p>
+     Entre deux âmes
+    </p>
+    <p>
+     Gilles de Cesbres
+    </p>
+    <p>
+     Esclave... ou reine ?
+    </p>
+    <p>
+     L’étincelle
+    </p>
+    <p>
+     L’exilée
+    </p>
+    <p>
+     Le rubis de l’émir
+    </p>
+    <p>
+     La biche au bois
+    </p>
+    <p>
+     Aélys aux cheveux d’or
+    </p>
+    <p>
+     L’orgueil dompté
+    </p>
+    <p>
+     La maison des Rossignols
+    </p>
+    <p>
+     Le sphinx d’émeraude
+    </p>
+    <p>
+     Bérengère, fille de roi
+    </p>
+    <p>
+     Le roi de Kidji
+    </p>
+    <p>
+     Elfrida Norsten
+    </p>
+    <lb/>
+    <lb/>
+    <lb/>
+    <lb/>
+    <lb/>
+    <p>
+     La voie divine
+    </p>
+    <lb/>
+    <p>
+     <seg rend="t6">
+      Édition de référence :
+     </seg>
+    </p>
+    <p>
+     <seg rend="t6">
+      Tallandier, 99
+     </seg>
+     <seg rend="t7">
+      e
+     </seg>
+     <seg rend="t6">
+      édition.
+     </seg>
+    </p>
+    <head>
+     I
+    </head>
+    <lb/>
+    <p>
+     Dans la salle du Chapitre, elles étaient toutes réunies autour de l’abbesse, les religieuses en robe blanche, en long manteau noir. Par les fenêtres étroites et longues, haut placées dans les embrasures profondes, la lumière des jours d’été entrait, en se colorant de rose vif, d’ocre pâle, d’azur et de vert ardent, au passage des vitraux du seizième siècle, œuvre d’un artiste anonyme. Des feuillages, agités au dehors par une forte brise, déplaçaient sans cesse ces clartés multicolores qui semblaient se jouer sur le pavement de la salle, sur les bancs de chêne noirci, sur les robes et les visages des religieuses. L’abbesse était enveloppée d’une rayonnante auréole couleur d’espérance, la sainte Mère Marguerite de l’Incarnation, dont les yeux angéliques semblaient déjà contempler la cité divine, baignait dans l’azur, et le doux visage recueilli de Mère Marie-Madeleine de la Croix apparaissait environné d’une pourpre éblouissante.
+    </p>
+    <p>
+     Toutes attendaient avec un émoi secret la communication qui allait leur être faite. Elles en pressentaient la nature. Et la physionomie altérée de l’abbesse, cette façon de les regarder, longuement, avec des yeux d’angoisse et de tendresse, leur disait, avant que les lèvres eussent parlé :
+    </p>
+    <p>
+     – C’est fini. Mon dernier espoir s’est évanoui.
+    </p>
+    <p>
+     Oui, c’était fini. Elles devaient se séparer, chassées de ce couvent, leur bien, par une loi spoliatrice. Elles devaient s’en aller, comme des bannies, pauvres femmes dont plusieurs n’avaient plus de toit qui pût les recevoir. Et, parmi les autres, combien seraient accueillies à contrecœur, comme une gêne, un fardeau ?
+    </p>
+    <p>
+     Dans la grande salle ensoleillée, la sentence, attendue cependant, fit frissonner toutes les victimes. Un silence d’effroi et de douleur y répondit d’abord. Puis on entendit un sanglot. Mère Cécile de Jésus, dont la profession datait de quelques mois seulement, n’avait pu contenir le chagrin de son cœur de vingt ans qui s’était donné à l’Époux divin.
+    </p>
+    <p>
+     Alors toutes entourèrent l’abbesse. Elles pleuraient et demandaient :
+    </p>
+    <p>
+     – N’y a-t-il plus rien à faire, ma Mère ?
+    </p>
+    <p>
+     – Hélas ! non, mes pauvres enfants ! Il ne nous reste qu’à prendre les meilleures dispositions possibles pour chacune de vous.
+    </p>
+    <p>
+     Un peu à l’écart se tenaient Marie-Madeleine et Marguerite de l’Incarnation. Celle-ci, immobile, regardait le grand Christ suspendu au-dessus du fauteuil abbatial. Elle ne pleurait pas. Son visage trop blanc, émacié par les souffrances d’une maladie de cœur, frissonnait un peu, et ses yeux priaient :
+    </p>
+    <p>
+     – Seigneur, emmenez-moi avec vous !
+    </p>
+    <p>
+     Sur les joues de Marie-Madeleine, des larmes glissaient, tombaient ensuite sur la guimpe empesée. La jeune religieuse avait pris son chapelet à deux mains, et sur lui elle joignait ses doigts tremblants. Dans ses yeux, d’un bleu lumineux de beau ciel d’été, une détresse infinie passait. Elle murmura :
+    </p>
+    <p>
+     – Partir !... Partir ! Ô mon Dieu !
+    </p>
+    <lb/>
+    <p>
+     *
+    </p>
+    <lb/>
+    <p>
+     Successivement, ce jour-là, chaque religieuse fut appelée dans la cellule de l’abbesse. Il fallait prendre les dispositions nécessaires, écrire aux familles, pour celles qui en avaient, voir à trouver un asile pour les autres. Une des dernières, Marie-Madeleine entra dans la petite pièce blanchie à la chaux, où l’abbesse se tenait assise, très pâle, se raidissant pour dominer sa souffrance afin de mieux consoler celle de ses filles et de les fortifier. D’un geste doux, elle posa sa main sur la tête de Marie-Madeleine qui s’agenouillait en levant vers elle ses yeux douloureux.
+    </p>
+    <p>
+     – Relevez-vous, ma chère fille. Il faut être courageuse. Dieu sera toujours avec vous...
+    </p>
+    <p>
+     Un sanglot vint à la gorge de la jeune religieuse.
+    </p>
+    <p>
+     – Ô ma Mère, quitter notre couvent !... Vous quitter !... C’est impossible !
+    </p>
+    <p>
+     – Dieu le permet. Il nous donnera les grâces nécessaires pour ne pas défaillir, pour rester fidèles à notre sainte vocation... Allons, ma chère enfant, regardons bien en face l’avenir, et voyons ce que nous pouvons faire pour vous. Ces cousins du Jura, votre seule famille ?
+    </p>
+    <p>
+     Marie-Madeleine eut un mouvement d’effroi.
+    </p>
+    <p>
+     – Ô ma Mère, je ne puis leur demander quelque chose ! M. de Bertrave a été si dur, si indifférent pour ma pauvre mère, sa cousine ! Bien souvent, elle me l’a dit. Et je ne le connais pas.
+    </p>
+    <p>
+     – Vous n’avez pas le choix, ma pauvre enfant. Votre avoir est peu de chose, en admettant encore qu’on puisse le retirer des griffes du liquidateur, ce qui demandera un certain temps. On parle bien de nous faire une pension ; mais je n’y compte guère. Donc, il faut de toute nécessité vous adresser à ces parents, qui sont riches, m’avez-vous dit.
+    </p>
+    <p>
+     – Mais ne puis-je travailler ? Je brode assez bien, je peins...
+    </p>
+    <p>
+     – La concurrence est si grande ! Une pauvre petite sans expérience, comme vous, serait écrasée dans cette lutte pour la vie. Et puis, votre santé est frêle, Marie-Madeleine. Il faut encore compter avec cela. Croyez-moi, écrivez à votre parent. Selon le ton de sa réponse, nous déciderons alors.
+    </p>
+    <p>
+     Marie-Madeleine appuya ses mains contre sa poitrine, comme pour comprimer un sursaut de son cœur, et dit d’une voix tremblante :
+    </p>
+    <p>
+     – J’écrirai, ma Mère.
+    </p>
+    <lb/>
+    <p>
+     *
+    </p>
+    <lb/>
+    <p>
+     Michelle de Gazan était la fille unique née du mariage d’Agnès de Bertrave avec le baron de Gazan. Celui-ci, jeune officier sans fortune et cerveau brûlé, eut tôt fait de dissiper au jeu la belle dot de sa femme. M
+     <seg rend="t9">
+      me
+     </seg>
+     de Gazan, après huit ans de mariage, se trouva veuve, le brillant capitaine ayant fait une chute mortelle à un concours hippique. Elle vécut dès lors petitement, en se consacrant à l’éducation de sa fille. Michelle venait d’avoir seize ans lorsque la santé de sa mère, très altérée à la suite de soucis de tous genres, s’affaiblit de telle sorte qu’elle lui inspira les plus vives inquiétudes. M
+     <seg rend="t9">
+      me
+     </seg>
+     de Gazan se sentait perdue. Réunissant ses dernières forces, elle écrivit à une vieille tante de son mari, religieuse à l’abbaye de Sainte-Thècle, pour lui confier sa fille. Après cela, elle mourut, résignée, en bénissant Michelle.
+    </p>
+    <p>
+     Mère Thérèse ayant répondu qu’elle attendait la jeune fille, celle-ci partit aussitôt, laissant le soin de régler ses minces intérêts à un ami de son père, car l’unique parent de M
+     <seg rend="t9">
+      me
+     </seg>
+     de Gazan, le vicomte de Bertrade, ne s’était pas dérangé pour les obsèques et refusait la tutelle. Dans la calme atmosphère de l’abbaye, la douleur de Michelle s’apaisa peu à peu. Elle goûta très vite la paix du cloître, la douceur du renoncement, de la piété, des louanges qui s’élèvent vers le Seigneur, pendant les longs offices et les oraisons. Un jour, – elle venait d’avoir dix-sept ans, – elle demanda la faveur de prendre rang parmi les moniales de Sainte-Thècle. Après l’épreuve du noviciat, elle fit profession, quelques jours avant que Dieu rappelât à lui la bonne vieille Mère Thérèse, tout heureuse d’avoir vu les noces mystiques de sa chère petite-nièce avec le Seigneur dont elle-même avait été la fidèle servante depuis sa jeunesse. Six ans avaient passé, six ans de calme, de joie pure, de ferveur heureuse. Jamais un regret n’avait effleuré l’âme de Michelle, devenue Marie-Madeleine de la Croix. Le Dieu auquel elle s’était donnée sans réserves lui rendait au centuple tous ses sacrifices, ainsi qu’il l’a promis.
+    </p>
+    <p>
+     Mais ce bonheur était fini. Marie-Madeleine se trouvait rejetée dans le monde, seule, sans expérience. Il lui fallait quitter le cloître paisible, ses Sœurs si chères et cette Mère qui l’avait guidée dans la vie religieuse avec tant d’affectueuse fermeté.
+    </p>
+    <p>
+     À la lettre qu’elle avait écrite à M. de Bertrave, une réponse fut faite presque aussitôt. Elle était conçue en ces termes :
+    </p>
+    <lb/>
+    <p>
+     « Ma chère cousine,
+    </p>
+    <p>
+     « Je n’ai pas à vous dissimuler – mais peut-être le savez-vous ? – que j’ai eu de graves dissentiments avec votre mère, au moment de son mariage. Il s’ensuit donc que j’ai peu de raisons d’être bien disposé à votre égard. Cependant je reconnais impossible de laisser une parente dans le besoin. Mais mes moyens pécuniaires, fort réduits, ne me permettent autre chose que de vous offrir le gîte et le couvert, dans ma vieille maison de Serpignade, avec une modeste somme pour votre entretien. Si cela vous convient ainsi, venez quand vous le voudrez. Je vis là avec ma petite-fille et mes trois arrière-petits-enfants. Nous sommes des solitaires, et vous n’aurez à craindre aucune dissipation.
+    </p>
+    <p>
+     « Mais, par exemple, – de ceci je dois vous avertir loyalement, – vous ne trouverez autour de vous que des incroyants. Personne, chez nous, ne fréquente l’église. Naturellement, vous resterez libre d’agir à votre guise sur ce point-là et de pratiquer toute votre religion, car nous ne sommes pas des sectaires, comme ceux qui vous renvoient.
+    </p>
+    <p>
+     « Voici tout ce que je puis vous offrir, ma chère cousine. Ayez l’amabilité de me faire savoir si vous acceptez et m’écrire deux jours à l’avance la date de votre arrivée.
+    </p>
+    <p>
+     « Veuillez croire, je vous prie, à mes sentiments dévoués.
+    </p>
+    <p>
+     « Ludovic
+     <seg>
+      DE
+     </seg>
+     B
+     <seg>
+      ERTRADE
+     </seg>
+     . »
+    </p>
+    <lb/>
+    <p>
+     Le premier mouvement de Marie-Madeleine fut de s’écrier :
+    </p>
+    <p>
+     – Ô ma Mère, c’est impossible !... Des incroyants ! Je ne puis aller dans cette maison !
+    </p>
+    <p>
+     – Du moment où vous aurez votre liberté, ma chère fille, vous le pouvez. Et qui sait s’il ne vous sera pas possible de faire quelque bien à ces pauvres âmes éloignées de Dieu ?
+    </p>
+    <p>
+     Cette perspective était la seule qui pût donner un peu de courage à Marie-Madeleine en de si douloureuses conjonctures. Le zèle pour la gloire de Dieu, pour le salut des pécheurs, enflammait cette âme de jeune fille. Maintenant, elle se souvenait qu’un jour, en une des très rares occasions où elle parlait de son parent du Jura, sa mère lui avait dit : « Il a perdu la foi et il élève son fils sans croyances. » Les malheureux ! Peut-être le Seigneur voulait-il se servir de son humble petite servante pour se faire connaître à eux ? En ce cas, elle était prête. En quelque lieu que ce fût, pour tout ce qu’il lui plairait d’ordonner.
+    </p>
+    <p>
+     D’une main qui tremblait, elle répondit à M. de Bertrade que dans huit jours elle serait à Serpignade.
+    </p>
+    <p>
+     Ces huit jours, quelle succession de souffrances ce fut ! Elles partaient une à une, ces femmes qui s’étaient aimées en sœurs, qui avaient partagé la même vie de prières, de silence, de travail. Elles partaient pour la dispersion, pour l’exil, certaines pour la misère. Avec des sanglots étouffés, elles embrassaient celles qui restaient et qui demain franchiraient à leur tour le seuil du cloître. Mère Cécile de Jésus fut une des premières. Sa mère vint la chercher et l’emmena, n’osant montrer sa joie devant cette désolation navrante, mais se promettant de la distraire pour lui faire oublier vite ce couvent trop aimé.
+    </p>
+    <p>
+     Les dernières furent Marie-Madeleine et Marguerite de l’Incarnation. Celle-ci, qui appartenait à une grande famille de l’aristocratie, devait aller vivre chez son frère, le duc de Monternac, dans un milieu brillant et mondain. Elle avait trente ans et depuis dix ans était à Sainte-Thècle. Toutes, dans le couvent, la vénéraient pour sa ferveur angélique, pour sa joie surnaturelle et sa bonté compatissante. On la savait en intime communication avec le Seigneur et on l’appelait tout bas « notre sainte ».
+    </p>
+    <p>
+     La veille du départ, Marie-Madeleine et elle firent une dernière fois le tour de l’abbaye. Elles longèrent les cloîtres déserts, dont leur robe blanche frôlait le dallage usé, et qui étaient si frais en ces heures chaudes de la journée. Elles revirent la salle du Chapitre, vide et silencieuse, éclairée par la lumière jaune, verte, couleur d’azur et de pourpre. Elles descendirent jusqu’aux cuisines, où Sœur Dominique pleurait. Puis elles sortirent pour la visite des jardins.
+    </p>
+    <p>
+     À cette époque de l’année, les rosiers étaient encore en pleine floraison. Ils formaient des buissons, dans les parterres, couraient le long de portiques improvisés, entouraient les petites chapelles rustiques où se dressaient les statues de la vierge et des saints les plus vénérés du monastère. Blanches, rosées, pourpres ou rose ardent, jaunes comme le safran ou nacrées comme un intérieur de coquillage, elles répandaient dans l’air chaud leur senteur fine et grisante, mêlée à celle des lis, plus capiteuse, à l’arôme vanillé des héliotropes et au parfum discret du réséda. Des sentiers étroits, sur lesquels s’étendait l’ombre de vieux arbres, menaient à un oratoire, à un calvaire, à une grotte de Lourdes. Un petit pont, jeté sur l’étroit bras de rivière qui traversait les jardins, apparaissait enguirlandé de clématites et de géraniums. Les deux religieuses le passèrent, longèrent une allée plus large et se trouvèrent près du cimetière où reposait la dépouille mortelle des moniales de Sainte-Thècle.
+    </p>
+    <p>
+     Un petit cimetière ensoleillé, que nulle clôture ne restreignait, et où abondaient les roses et les lis. Aussi l’air était-il saturé d’un parfum enivrant. Sur les dalles étroites, les fleurs s’effeuillaient. Des liserons s’enroulaient au socle du grand Christ de pierre grise, dont les bras s’étendaient en un geste d’appel. Un petit banc était là, à l’ombre d’un noisetier. Les religieuses venaient s’y asseoir pour méditer sur leurs fins dernières. Après une prière pour les défuntes, Marie-Madeleine et Marguerite s’y reposèrent un instant.
+    </p>
+    <p>
+     Elles ne parlaient pas. Marguerite regardait la croix, Marie-Madeleine faisait glisser entre ses doigts les grains de son rosaire. La lumière, moins brûlante à cette heure tardive de l’après-midi, éclairait le visage émacié de l’une, la mince figure pâle et anxieuse de l’autre. Mais qu’était donc cette clarté, près de celle qui se répandait dans les grands yeux bruns fixés sur le Christ de pierre ?
+    </p>
+    <p>
+     Marie-Madeleine dit enfin à demi-voix :
+    </p>
+    <p>
+     – Il faut rentrer. Il est tard.
+    </p>
+    <p>
+     Elles se levèrent. Un peu de brise courba autour d’elles les hautes tiges des lis et fit frissonner les roses. Une senteur plus forte passa dans l’air. Près de Marguerite, une grosse rose pourpre, aux pétales alanguis, s’effeuilla sur la tombe de la dernière abbesse. Marie-Madeleine dit tout bas :
+    </p>
+    <p>
+     – C’est affreux de partir ainsi !
+    </p>
+    <p>
+     Une main fine, amaigrie, presque transparente, se posa sur sa manche, et les yeux doux et profonds de Marguerite s’attachèrent sur sa physionomie altérée.
+    </p>
+    <p>
+     – Oui, c’est affreux. Mais Dieu le permet. Et Dieu, c’est tout pour nous, ses servantes.
+    </p>
+    <p>
+     – Mais pensez donc ! Pensez donc que je vais chez des étrangers ! Et ils ne croient à rien ! Que cette pensée est douloureuse ! Et que serai-je maintenant ? Une pauvre épave, loin de tout ce qui fut ma vie, mon devoir, mon bonheur.
+    </p>
+    <p>
+     La main délicate s’appuya un peu plus sur la manche de laine blanche. La voix pure de Marguerite dit lentement :
+    </p>
+    <p>
+     – Dieu vous envoie vers eux. Ne craignez rien, il sera avec vous. Votre devoir est là où vous place la volonté divine. Par la prière et l’exemple, sauvez ce qui semble perdu, et donnez votre vie, s’il le faut, en véritable épouse de Jésus crucifié.
+    </p>
+    <p>
+     Une vive émotion fit tressaillir Marie-Madeleine. Elle prit la main de Marguerite et murmura :
+    </p>
+    <p>
+     – Vous prierez pour moi ? Vous prierez beaucoup, pour que je sois cette digne épouse de notre Sauveur ?
+    </p>
+    <p>
+     Marguerite sourit. Une clarté merveilleuse fit resplendir le brun velouté de ses yeux, une clarté de bonheur et d’extase. Elle dit avec une douceur ardente :
+    </p>
+    <p>
+     – Oui, là où je serai, je prierai pour vous, ma Sœur, je prierai beaucoup.
+    </p>
+    <p>
+     Elles revinrent dans l’ombre ensoleillée des petites allées et virent une dernière fois le soleil s’éteindre sur les toits du vieux monastère, tandis que l’Angélus tintait.
+    </p>
+    <lb/>
+    <p>
+     *
+    </p>
+    <lb/>
+    <p>
+     Quand l’abbesse, inquiète de ne pas voir le lendemain matin Marguerite de l’Incarnation, entra dans la cellule de la jeune religieuse, elle la trouva étendue sur son étroit petit lit, les mains jointes sur le crucifix de son rosaire, les paupières closes sur ses yeux qui ne contempleraient plus les choses de la terre. Elle souriait, et un reflet de la béatitude divine semblait se répandre sur ce beau visage de vierge.
+    </p>
+    <p>
+     Seule de toutes les recluses de Sainte-Thècle frappées par la loi d’expulsion, Marguerite de l’Incarnation, « la sainte », ne quitta pas vivante son cher cloître.
+    </p>
+   </div>
+   <div title="II" type="chapter">
+    <head>
+     II
+    </head>
+    <lb/>
+    <p>
+     Une pluie fine tombait quand Marie-Madeleine – redevenue Michelle de Gazan – descendit de l’omnibus que lui avait fait prendre à la gare de Serpignade le vieux domestique taciturne envoyé au-devant d’elle par M. de Bertrave. Elle se vit devant une grille rouillée, fermant une cour ruisselante, au-delà de laquelle se dressait une vieille demeure d’aspect délabré. Avec l’aide du conducteur, le domestique transporta la malle à l’intérieur du logis. Michelle les suivit. L’angoisse l’étreignait plus fortement à l’instant où elle allait connaître cette famille. En outre, elle se sentait gênée dans ses vêtements – les sombres vêtements de deuil qui avaient remplacé la robe monacale. Il lui semblait qu’elle n’était plus qu’une étrangère, non seulement pour les autres, mais pour elle-même, et que sa véritable personnalité était demeurée dans le cloître de Sainte-Thècle.
+    </p>
+    <p>
+     Un perron très haut, où des flaques d’eau s’étendaient dans le creux de la pierre usée, conduisait à un vestibule de belle apparence, garni de vieux coffres de noyer sculpté. Le domestique ouvrit une porte et s’effaça pour laisser passer la jeune fille en disant :
+    </p>
+    <p>
+     – M. le vicomte attend Mademoiselle.
+    </p>
+    <p>
+     Elle entra dans une grande pièce qui lui parut un cabinet de travail, très sombre et sentant le renfermé. Un homme se leva et vint à elle en boitant.
+    </p>
+    <p>
+     – Soyez la bienvenue, ma cousine. Vous arrivez par un temps abominable. Aussi, vous voyez, mes rhumatismes font des leurs.
+    </p>
+    <p>
+     En parlant, il lui tendait la main. C’était un homme maigre et de grande taille, dont le visage sec, creusé, garni d’une barbe blanche, conservait de beaux traits. Ses yeux voilés, indifférents, s’attachaient sur Michelle. Il fit asseoir la jeune fille, s’informa courtoisement de la façon dont elle avait fait le voyage. Puis une femme entra. Elle était vêtue de noir, très simplement. Des cheveux blonds opulents coiffaient sa tête fine, qui semblait fléchir sous ce poids. Elle ne semblait pas avoir dépassé trente ans, mais son teint délicat était fané, et de grands cernes creusaient ses yeux noirs, froids et tristes.
+    </p>
+    <p>
+     M. de Bertrave la présenta :
+    </p>
+    <p>
+     – M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave, ma petite-fille.
+    </p>
+    <p>
+     Elle serra la main de Michelle, lui adressa à son tour quelques questions banales. Puis elle la conduisit au premier étage, à sa chambre qui était vaste, meublée avec soin, bien que sans élégance, et donnait sur le jardin. Après s’être informée de ce dont elle pouvait avoir besoin, elle se retira, et Michelle resta seule.
+    </p>
+    <p>
+     La pluie couvrait les vitres de ruisselets ininterrompus. Déjà, la nuit semblait venue. Michelle sentit qu’une profonde tristesse l’étreignait. Alors elle se mit à prier longtemps, et elle se releva plus forte pour supporter la mélancolie des choses et la froideur de l’accueil qui venait de lui être fait.
+    </p>
+    <p>
+     Au dîner, servi dans une grande salle à manger mal éclairée, elle fit la connaissance des trois enfants : deux pâles petites filles aux yeux trop graves et un garçonnet au beau visage mat, aux yeux superbes et rêveurs, qui, seul de toute la famille, parut la regarder avec intérêt.
+    </p>
+    <p>
+     Au bout de huit jours, Michelle savait ceci : M. de Bertrave, en dehors des repas où il ne parlait guère, passait son existence en solitaire dans son cabinet et ne quittait jamais sa demeure ; M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave vivait de son côté dans la partie de la maison qui lui était réservée avec ses filles et le petit Régis. Celui-ci n’était pas son fils, car il l’appelait « ma tante », Comme il dénommait M. de Bertrave « grand-père », Michelle en concluait que la vicomtesse avait dû avoir un frère. Mais si elle était la petite-fille de M. de Bertrave, comment portait-elle le même nom que lui ? Sans doute avait-elle épousé un parent ?
+    </p>
+    <p>
+     Elle non plus ne sortait jamais. Parfois, quand Augustine, la servante, allait faire quelque course, elle emmenait les enfants. Mais généralement ceux-ci jouaient dans le jardin. Valentine et Yolande habillaient des poupées ou bien tressaient des guirlandes de feuillage dont elles entouraient les sièges du jardin. Elles parlaient peu, ne riaient pas et souriaient comme à regret. Régis ne s’occupait pas d’elles. Il s’amusait avec son chien, un terre-neuve, ou faisait voguer des bateaux de liège sur l’eau stagnante d’un petit bassin. Lui non plus n’était pas bruyant, ni gai, et il paraissait trop songeur pour un enfant si jeune. Cependant, il existait plus de vie chez lui que chez ses cousines. Aucun d’eux n’avait de petits camarades. Une vieille demoiselle venait leur donner des leçons chaque jour. En dehors de ces heures-là, M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave les faisait travailler ou surveillait leurs jeux. Elle parlait peu et semblait toujours triste et lasse, Michelle, au bout de quelque temps, remarqua qu’elle témoignait plus de sollicitude à son neveu qu’à ses petites filles et que les désirs de Régis étaient rarement contrecarrés, alors qu’elle se montrait plutôt sévère pour Valentine et Yolande.
+    </p>
+    <p>
+     En dehors de la famille, il y avait dans la maison deux serviteurs : Anselme, le vieux domestique qui avait reçu Michelle à la gare, et Augustine, sa fille, une veuve, forte femme aux cheveux grisonnants, au visage fermé, qui semblait vraiment à sa place dans ce logis mélancolique.
+    </p>
+    <p>
+     Car la tristesse, une tristesse morne et lourde, semblait à demeure ici. Même quand le soleil éclairait le jardin et les appartements, personne n’avait un instant de gaieté, et les grandes pièces délabrées, garnies de beaux meubles anciens, conservaient leur aspect morose.
+    </p>
+    <p>
+     Pour Michelle, tous, maîtres et serviteurs, se montraient corrects, sans cordialité. Seul, le petit Régis semblait disposé à lui témoigner de la sympathie. Selon la promesse faite par M. de Bertrave, on la laissait absolument libre quant à ses pratiques religieuses. Chaque jour, elle se rendait à la messe à la vieille église Saint-Nicolas, peu éloignée. Dans l’après-midi, elle y retournait encore et y restait tant qu’il lui plaisait. Personne ne s’occupait de ses faits et gestes. Seul, Régis demandait parfois :
+    </p>
+    <p>
+     – Où allez-vous, ma cousine Michelle ?
+    </p>
+    <p>
+     Elle répondait :
+    </p>
+    <p>
+     – À l’église, mon petit ami.
+    </p>
+    <p>
+     – À l’église ?... Ah ! oui, c’est cette vieille grande maison noire, sur la place. Qu’est-ce que vous y faites ?
+    </p>
+    <p>
+     – Je prie le bon Dieu. L’enfant ouvrait de grands yeux.
+    </p>
+    <p>
+     – Le bon Dieu ?... qui est-ce ?...
+    </p>
+    <p>
+     Le cœur de Michelle se serrait. L’ignorance coupable dans laquelle on laissait cette âme innocente lui semblait le plus monstrueux des crimes. Mais que pouvait-elle contre la volonté des parents ? Elle devait se contenter de répondre :
+    </p>
+    <p>
+     – Le bon Dieu, c’est l’être tout-puissant qui nous a créés, qui veille sur nous à chaque seconde de notre vie.
+    </p>
+    <p>
+     Au curé de Saint-Nicolas, elle parla des Bertrave. Il soupira en disant :
+    </p>
+    <p>
+     – Pauvres gens ! quelle existence que la leur !
+    </p>
+    <p>
+     – Mais qu’ont-ils donc, monsieur le curé ? Pourquoi cette vie retirée ?
+    </p>
+    <p>
+     – Il leur est advenu de grands chagrins sur lesquels plane, d’ailleurs, un certain mystère. Il y a quelques années, ils habitaient Paris. À cette époque, les deux petits-fils de M. de Bertrave vivaient encore. L’aîné – le père du petit garçon – était veuf. Il voyageait beaucoup et on le disait joueur effréné. Son frère avait la même réputation. C’est dans ce gouffre sans fond que sombra, sans doute, la plus grande partie de la belle fortune des Bertrave. Un jour, par les journaux, nous apprîmes que l’aîné avait été trouvé mort dans les jardins de Monte-Carlo. Il s’était suicidé, dit-on d’abord, probablement après quelque terrible perte de jeu. Puis on parla de crime. La lumière ne fut jamais faite là-dessus. Peu après, nous vîmes arriver ici les autres membres de la famille, sauf M. Gilbert, le frère du mort, qui était, paraît-il, parti pour l’Amérique afin d’y refaire sa fortune. Son père et sa femme s’installèrent avec les enfants dans cette maison, abandonnée depuis un siècle, et à laquelle ils ne firent faire que les plus indispensables réparations. Depuis, ils y ont vécu dans une solitude farouche, avec ces domestiques qui ne sont pas du pays et qui sont sans religion comme eux. Ils n’ont ici aucune relation, ils ne sortent que très rarement, lorsqu’une affaire les appelle au dehors. Comme vous le pensez, les curiosités ont été vivement excitées par cette attitude dans notre petite ville. Mais elles en sont restées pour leurs frais de recherches.
+    </p>
+    <p>
+     Ce fut ainsi que Michelle apprit que M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave était la femme du cadet des petits-fils de M. de Bertrave et qu’elle n’était pas veuve, comme la jeune fille l’avait cru jusqu’ici, en voyant ses vêtements noirs, son air triste, et en n’entendant jamais les petites filles parler de leur père.
+    </p>
+    <p>
+     Trois mois passèrent. L’automne arriva et commença de jaunir les vieux arbres, les charmilles du grand jardin à l’ancienne mode. Les chrysanthèmes se mirent à fleurir, tandis que s’effeuillaient quelques roses d’arrière-saison. Régis s’amusait avec les marrons brillants qui tombaient chaque jour et s’échappaient de leur enveloppe rugueuse. Il y taillait des corbeilles, des figurines baroques, il en formait des colliers dont il entourait le cou et la croupe du terre-neuve. Maintenant, il associait à ses jeux Michelle, qui était adroite et patiente. La jeune fille avait été la plus gaie parmi toutes les recluses de Sainte-Thècle. Cette gaieté naturelle, augmentée par la joie paisible d’une conscience pure, elle la retrouvait peu à peu dans la triste maison des Bertrave. Elle essayait de l’insuffler à cet enfant trop sérieux, à ces petites filles trop mélancoliques. Quand elle avait confectionné un bateau pour Régis, elle venait s’asseoir près de Yolande et de Valentine et les aidait à tirer le meilleur parti possible des morceaux d’étoffe destinés à habiller leurs poupées. Régis arrivait alors, réclamant sa grande cousine pour lui seul. Michelle en profitait pour lui faire une petite leçon très douce sur la laideur de l’égoïsme et sur le bonheur que l’on trouve à faire plaisir aux autres. Régis s’asseyait alors près d’elle, appuyait contre ses genoux sa tête brune et demandait une histoire. Ou bien il restait rêveur en regardant les doigts agiles qui terminaient quelque robe minuscule pour la poupée mignonnette de Yolande.
+    </p>
+    <p>
+     À défaut de prévenances affectueuses de la part de M. de Bertrave et de la jeune femme, Michelle savait maintenant qu’elle était aimée des enfants, et cette pensée lui semblait infiniment douce. Mais quel tourment, pour une âme embrasée de zèle comme la sienne, de ne pouvoir donner le moindre enseignement religieux à ces petits êtres qui semblaient déjà porter le poids de quelque mystérieuse épreuve !
+    </p>
+    <p>
+     « Tout au moins, je prie pour eux chaque jour et j’offre à leur intention ma grande souffrance d’exilée, écrivait-elle à l’abbesse, retirée dans sa famille, en Savoie. Si Dieu voulait ouvrir les yeux à ces malheureux parents, aveuglés par leur incroyance ! Ah ! pour cela, croyez-moi, ma Mère, je donnerais ma vie ! »
+    </p>
+    <lb/>
+    <p>
+     *
+    </p>
+    <lb/>
+    <p>
+     Un après-midi de novembre, Michelle alla s’asseoir au jardin pour profiter du soleil qui apparaissait enfin après plusieurs jours de pluie. Elle s’installa avec son ouvrage non loin de la maison, sous les vieux marronniers presque complètement dépouillés maintenant. Près d’elle, Régis, à demi couché sur son chien étendu à terre, étudiait une leçon. Plus loin, les petites filles jouaient avec leurs inséparables poupées.
+    </p>
+    <p>
+     Le soleil, doux et tiède, éclairait toute cette façade de la maison, aussi noire et crevassée que l’autre. De ce côté, une aile prolongeait le bâtiment. Elle semblait abandonnée, car toutes les fenêtres en étaient closes, et derrière les vitres grises, opaques, on devinait la couche des toiles d’araignées tissées depuis de longues années. Un lierre énorme couvrait les vieux murs noircis, dissimulait même plusieurs ouvertures et cachait à demi la petite porte sans couleur qui ne s’était pas ouverte visiblement depuis bien longtemps.
+    </p>
+    <p>
+     Si l’on contournait cette aile, on voyait que les ronces, les broussailles envahissaient les alentours de l’autre façade, complètement couverte par le lierre. Trois fenêtres seulement ouvraient de ce côté. Elles disparaissaient, elles aussi, sous le feuillage sombre. Cette partie de l’habitation, que des arbres à verdure perpétuelle couvraient d’ombre et que le soleil n’atteignait que vers le soir, en été, fugitivement, était laissée au complet abandon. M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave défendait aux enfants de s’aventurer dans ce fourré de ronces et d’épines. Anselme dédaignait d’y donner le moindre coup de bêche, l’absence presque complète de soleil empêchant la plupart des végétaux d’y croître et d’y prospérer. Ainsi, ce coin de terre restait inculte et solitaire sous l’ombre des sapins et des ifs.
+    </p>
+    <p>
+     L’étendue du logis principal, trop vaste même pour ses habitants actuels, justifiait l’abandon de cette aile. D’ailleurs, il était fort probable que les Bertrave n’avaient pas les moyens de payer la restauration coûteuse qu’elle eût exigée pour redevenir habitable. Car s’il fallait en croire l’extérieur, elle était plus délabrée encore que l’autre bâtiment.
+    </p>
+    <p>
+     Cet après-midi, Michelle s’arrêta un moment de travailler pour regarder la vieille maison. Si triste que fût celle-ci, la jeune fille commençait à l’aimer, car dans sa détresse d’exilée elle lui avait offert l’abri de son toit. Et Michelle s’attachait aussi en silence au vieillard taciturne, à la jeune femme triste et froide qui lui donnaient l’hospitalité sans élan, mais généreusement, en évitant de lui faire sentir qu’elle était une gêne pour eux.
+    </p>
+    <p>
+     D’une pièce du rez-de-chaussée donnant de plain-pied sur le jardin, M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave sortit à ce moment. Elle s’avança d’un pas lent, fatigué. Ses épaules frêles se courbaient. Quand elle fut près de Michelle, elle se laissa tomber sur un siège. La jeune fille demanda avec inquiétude :
+    </p>
+    <p>
+     – Êtes-vous souffrante ?
+    </p>
+    <p>
+     – Oui, un peu... Mais c’est Augustine... Elle vient d’être prise d’une crise de cœur terrible...
+    </p>
+    <p>
+     – Y est-elle sujette ?
+    </p>
+    <p>
+     – Elle en a eu deux déjà, l’année dernière. Mais elles étaient beaucoup moins fortes. J’ai envoyé Anselme chercher le docteur. Justement, il l’a rencontré près de la porte... Il dit qu’elle s’en remettra, mais qu’il lui faut le repos absolu pendant plusieurs jours. Sans cela, il ne répond de rien.
+    </p>
+    <p>
+     Un frémissement passa sur le délicat visage flétri, qui semblait aujourd’hui profondément altéré. Michelle dit spontanément :
+    </p>
+    <p>
+     – Si je puis vous être utile, disposez de moi, je vous en prie, ma cousine, soit pour remplacer Augustine au ménage, soit pour la soigner. Je suis habituée aux malades. À Sainte-Thècle j’ai été longtemps à l’infirmerie, sous la direction d’une vieille religieuse extrêmement expérimentée.
+    </p>
+    <p>
+     M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave murmura :
+    </p>
+    <p>
+     – Ah ! vous...
+    </p>
+    <p>
+     Elle resta un long moment silencieuse. Son regard hésitant et angoissé ne quittait pas Michelle. Plusieurs fois elle ouvrit la bouche, puis la referma sans avoir prononcé un mot. Enfin, elle demanda :
+    </p>
+    <p>
+     – Est-ce que... vous savez soigner les plaies ?
+    </p>
+    <p>
+     – Certainement. Nous avions au couvent une religieuse affligée d’un mal terrible, et qui me demandait toujours pour la panser.
+    </p>
+    <p>
+     – Un mal ?... Quel mal ?
+    </p>
+    <p>
+     Tout en s’étonnant de l’intérêt fiévreux exprimé par le regard de M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave, Michelle décrivit de son mieux la maladie. Quand elle eut fini, la jeune femme murmura :
+    </p>
+    <p>
+     – Non, ce n’est pas tout à fait cela... pas tout à fait... mais un peu...
+    </p>
+    <p>
+     Que voulait-elle dire ?
+    </p>
+    <p>
+     Maintenant, elle se taisait de nouveau. La même hésitation apparaissait dans son regard, se devinait au tremblement de ses lèvres.
+    </p>
+    <p>
+     Régis s’était levé et s’approchait d’elle. Sur la tête brune elle posa ses doigts amaigris qui tremblaient.
+    </p>
+    <p>
+     – J’ai fini d’apprendre ma leçon, ma tante. Je la sais d’un bout à l’autre.
+    </p>
+    <p>
+     – C’est bien, mon chéri. Tu me la réciteras plus tard.
+    </p>
+    <p>
+     Elle se pencha et baisa le front de l’enfant. Il la regarda avec une tendresse pensive et dit gravement :
+    </p>
+    <p>
+     – Je vous aime bien, tante Thérèse.
+    </p>
+    <p>
+     Un soupir gonfla la poitrine de la jeune femme. Elle attira Régis entre ses bras, l’embrassa encore. Puis elle se leva et, sans regarder Michelle, se dirigea vers la maison.
+    </p>
+    <p>
+     Au moment de franchir le seuil, elle s’arrêta. Michelle la vit se détourner, elle distingua l’émoi angoissé du regard tourné vers elle. Puis une voix tremblante appela :
+    </p>
+    <p>
+     – Michelle !
+    </p>
+    <p>
+     La jeune fille se leva aussitôt.
+    </p>
+    <p>
+     – Vous avez besoin de moi, ma cousine ?
+    </p>
+    <p>
+     – Oui... Venez.
+    </p>
+    <p>
+     Elles montèrent le vieil escalier de pierre sombre et entrèrent dans la chambre de M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave. Celle-ci fit asseoir Michelle, prit place près d’elle et dit en la regardant bien en face :
+    </p>
+    <p>
+     – Ce que je vais vous apprendre doit rester à jamais entre nous. Il faut que vous me le promettiez, Michelle.
+    </p>
+    <p>
+     – Oh ! je vous le promets bien volontiers.
+    </p>
+    <p>
+     – Vous n’en direz pas un mot à personne au monde et surtout pas à M. de Bertrave ?
+    </p>
+    <p>
+     – Si c’est un secret qui vous appartient, non, je ne dirai rien.
+    </p>
+    <p>
+     La jeune femme serra convulsivement ses mains tremblantes.
+    </p>
+    <p>
+     – S’il m’appartient !... Ah ! oui, oui ! Vous allez voir... C’est tout le secret de notre vie que vous allez connaître...
+    </p>
+    <p>
+     Elle s’interrompit, haleta un instant, comme étouffée par l’émotion. Puis elle commença :
+    </p>
+    <p>
+     – Très jeune, j’épousai Gilbert de Bertrave, le second petit-fils du vicomte. Il fut toujours un bon mari, et je n’eus qu’un reproche à lui faire : il était joueur, effroyablement. Daniel, son frère aîné, ne lui cédait en rien sous ce rapport. En outre, ce dernier avait une nature violente, dominatrice, dont son cadet, orgueilleux et peu patient, supportait difficilement les à-coups. Les deux frères ne s’aimaient pas. Une certaine partialité de l’aïeul pour Daniel, plus séduisant, mieux doué en apparence, augmentait encore l’animosité de mon mari contre son aîné.
+    </p>
+    <p>
+     « À eux deux, ils eurent vite fait d’entamer fortement la fortune des Bertrave. Bien que Gilbert m’aimât beaucoup, j’étais sans influence sur lui à ce sujet. Le jeu est une passion terrible qui annihile l’attachement le plus sincère, qui fait bon marché des angoisses d’une épouse, d’une mère. Je voyais venir la catastrophe et je ne pouvais rien pour l’empêcher.
+    </p>
+    <p>
+     « Ce fut plus terrible que tout ce que j’avais pu imaginer. Un soir, grand-père reçut une dépêche. On l’informait que son petit-fils était très malade à Monte-Carlo. Son petit-fils ? Lequel ? Car les deux frères se trouvaient en ce moment de ce côté. Rencontre fortuite. Ils évitaient généralement de séjourner dans les mêmes parages, à cause des discussions qui s’élevaient maintenant entre eux pour les sujets les plus futiles.
+    </p>
+    <p>
+     « Je partis avec M. de Bertrave. À l’arrivée, nous apprîmes que Daniel avait été trouvé mort dans les jardins du casino, la poitrine trouée par une balle de revolver.
+    </p>
+    <p>
+     « Gilbert était là aussi. On l’avait prévenu à Nice, où il avait élu domicile. Il était très pâle, avec des yeux étranges. Je l’attribuai à l’émotion que lui causait la fin terrible de son frère. Et je me laissai aller à tout mon bonheur de le retrouver vivant, après les angoisses de ce voyage.
+    </p>
+    <p>
+     « Les médecins déclarèrent qu’il y avait eu assassinat. On fit une enquête. Ce soir-là, les deux frères avaient été vus au casino. Daniel gagnait, Gilbert voyait disparaître toutes ses mises. Il quitta le casino à minuit, après avoir perdu quatre-vingt mille francs. Daniel n’en sortit que beaucoup plus tard. Il emportait son gain : près de deux cent mille francs, assuraient les témoins. On retrouva, en effet, cette somme dans son portefeuille.
+    </p>
+    <p>
+     « L’enquête n’aboutit pas. On ne trouvait aucune piste sérieuse. Daniel fut enterré à Paris, dans la sépulture de famille. Au retour de la cérémonie, Gilbert, se trouvant seul avec son père et moi, nous dit :
+    </p>
+    <p>
+     « – Je vais partir pour l’Amérique. Il faut que je refasse notre fortune.
+    </p>
+    <p>
+     « Nous le regardâmes avec stupéfaction.
+    </p>
+    <p>
+     « – Tu veux partir ?... Pourquoi cette idée, tout d’un coup ?
+    </p>
+    <p>
+     « Il ne répondit pas. Sa physionomie nous frappa. Depuis que nous l’avions revu, à Monte-Carlo, il avait conservé cette pâleur singulière, ces yeux sombres et légèrement hagards. Mais aujourd’hui, il avait l’air si défait que je m’élançai vers lui en m’écriant :
+    </p>
+    <p>
+     « – Qu’avez-vous ?... Êtes-vous malade, Gilbert ?
+    </p>
+    <p>
+     « Il répondit d’une voix rauque :
+    </p>
+    <p>
+     « – Non, pas du tout.
+    </p>
+    <p>
+     « Son grand-père le regarda fixement. Puis il se leva, vint vers lui et mit sa main sur son épaule. Il dit ce seul mot :
+    </p>
+    <p>
+     « – Gilbert !...
+    </p>
+    <p>
+     « Je vis mon mari frissonner. Mais il ne baissa pas les yeux, et le regard de l’aïeul put s’y enfoncer. Pendant un moment, ce fut le silence effrayant. Puis la voix de M. de Bertrave, méconnaissable, demanda :
+    </p>
+    <p>
+     « – Ainsi, c’est toi ?
+    </p>
+    <p>
+     « Gilbert dit sourdement :
+    </p>
+    <p>
+     « – Eh bien ! oui, c’est moi, c’est moi. Je ne peux plus vous le cacher. Cela s’est fait avant que j’aie réfléchi... Je l’attendais pour lui demander de me prêter de l’argent, parce que j’avais des créanciers qui m’affolaient. Ivre de son gain, qui le sauvait d’une passe difficile, il refusa en ricanant. Une discussion violente s’ensuivit. Il me narguait de telle sorte qu’à un moment mon revolver sortit tout seul... Je m’enfuis, je retournai à Nice...
+    </p>
+    <p>
+     « En entendant cela, je jetai un cri affreux :
+    </p>
+    <p>
+     « – Gilbert !
+    </p>
+    <p>
+     « M. de Bertrave, lui, avait reculé. Je le vis devenir livide. Puis il étendit la main et montra la porte.
+    </p>
+    <p>
+     « – Va-t’en !... Va-t’en, maudit, qui a tué son frère !
+    </p>
+    <p>
+     « Le malheureux nous regarda avec égarement. Je défaillais et mon regard devait exprimer toute mon horreur. Alors, il sortit. Reprenant conscience, je voulus le suivre. Mais M. de Bertrave le saisit le bras :
+    </p>
+    <p>
+     « – Cet homme est indigne de vous. Restez, Thérèse.
+    </p>
+    <p>
+     « Je balbutiai faiblement :
+    </p>
+    <p>
+     « – Il est mon mari.
+    </p>
+    <p>
+     « – Non, il ne doit plus être rien pour vous.
+    </p>
+    <p>
+     « J’étais faible, je m’étais toujours laissé conduire par une volonté plus forte. J’obéis à grand-père... Quand je rentrai dans notre appartement, Gilbert l’avait quitté. Il laissait une lettre dans laquelle il me demandait pardon et me disait qu’il partait pour l’Amérique où il se ferait oublier.
+    </p>
+    <p>
+     « Si tu ne m’as pas complètement en horreur, si tu gardes encore un peu de pitié pour moi, ajoutait-il, écris-moi à l’adresse que je t’enverrai, une fois là-bas. Sinon, je comprendrai que tu ne veux plus entendre parler de moi, et que tu es aussi impitoyable que grand-père, qui ne me pardonnera jamais, lui, je l’ai vu dans ses yeux. »
+    </p>
+    <lb/>
+    <p>
+     *
+    </p>
+    <lb/>
+    <p>
+     Ici, Thérèse de Bertrave s’interrompit, la gorge serrée par l’émotion. Michelle écoutait en frissonnant le terrible récit. Ainsi, c’était cela, le secret de cette famille ! C’était cette chose épouvantable !...
+    </p>
+    <p>
+     Ses mains s’étendirent, serrèrent celles de la pauvre femme, qui se glaçaient.
+    </p>
+    <p>
+     – Oh ! ma cousine, que vous avez souffert !
+    </p>
+    <p>
+     – Oui... Et après !... Pendant des années, je reçus de ses nouvelles, de temps à autre. Il me disait qu’il travaillait beaucoup, qu’il était mal portant... Puis, un jour – il y a dix-huit mois – il m’écrivit qu’il était au Havre, très malade, qu’il allait partir coûte que coûte pour Serpignade afin de mourir dans mes bras.
+    </p>
+    <p>
+     « Affolée de chagrin, je portai cette lettre à M. de Bertrave. Il la lut, je vis trembler sa main, mais il dit sur ce ton inexorable que je connaissais bien :
+    </p>
+    <p>
+     « – Jamais ce fratricide ne franchira le seuil de notre demeure.
+    </p>
+    <p>
+     « Je le suppliai vainement. Alors, je me retirai chez moi, je cherchai une combinaison... Et voici ce que je trouvai : je résolus de me confier à Augustine, qui fut la nourrice de Gilbert, et à son père Anselme. Tous deux étaient très attachés à mon mari, qu’ils préféraient à Daniel, hautain et froid. Je leur demandai de m’aider à le cacher ici, à le soigner. Ils acquiescèrent aussitôt, en me promettant le secret. Anselme feignit de recevoir une lettre de son frère marié du côté d’Orléans et qui le demandait, étant très malade. Il partit, gagna Le Havre, en ramena mon pauvre Gilbert. Pendant ce temps, avec l’aide d’Augustine, je préparai une chambre dans l’aile abandonnée. Je ne craignais pas d’être surprise par M. de Bertrave, car son appartement se trouve à l’autre extrémité de la maison, et ses rhumatismes ne lui permettent de se déplacer que difficilement.
+    </p>
+    <p>
+     « Tout se trouvait prêt, quand, un soir, j’introduisis Gilbert dans cette maison où il allait vivre caché...
+    </p>
+    <p>
+     Elle s’interrompit encore et ferma un instant les paupières avant de continuer :
+    </p>
+    <p>
+     – ... Il était très malade, affaibli par une longue suite de privations et miné par un mal implacable qui commençait à s’étendre sur son visage. Aujourd’hui, ce pauvre visage en est tout dévoré. C’est Augustine qui le panse chaque jour. Moi, je ne peux pas, figurez-vous... Je tremble, je lui fais mal, et il crie... Voilà Augustine malade, condamnée au repos... Si vous vouliez... essayer... ?
+    </p>
+    <p>
+     – Mais certainement. J’espère pouvoir la remplacer. Et croyez que je serai bien heureuse de vous être bonne à quelque chose.
+    </p>
+    <p>
+     M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave lui prit les deux mains et les serra longuement avec émotion.
+    </p>
+    <p>
+     – Vous avez déjà donné un peu de joie, de gaieté aux enfants. Pauvres petits ! Quelle vie est la leur, ici ! D’une fenêtre, « il » les regarde quelquefois. Mais cette vue lui est pénible... à cause de Régis, le fils de son frère. Daniel, qui n’avait pas le cœur très tendre, aimait cependant cet enfant, qui avait à peine deux ans au moment de... de l’accident. Les remords de mon malheureux Gilbert s’augmentent quand il aperçoit son neveu, qu’il a fait orphelin. Car il a des remords affreux. Et je crois que le début de sa maladie doit leur être attribué.
+    </p>
+    <p>
+     Michelle murmura avec une pitié profonde :
+    </p>
+    <p>
+     – Pauvre être !
+    </p>
+    <p>
+     Et, suivant tout haut le cours de sa pensée, elle ajouta :
+    </p>
+    <p>
+     – Comme ce doit être terrible de souffrir quand on n’a pas de foi ni d’espérance, quand on ignore Dieu !
+    </p>
+    <p>
+     La jeune femme dit sourdement :
+    </p>
+    <p>
+     – Oui, c’est terrible. C’est une torture que vous ignorez, Michelle. Ah ! quand tout va bien, on trouve simple et facile de vivre sans croyance, de ne pas savoir d’où l’on vient et vers quel but la vie vous mène. Mais quand arrive l’épreuve !... une épreuve comme celle-là !...
+    </p>
+    <p>
+     Michelle demanda :
+    </p>
+    <p>
+     – Vous n’avez jamais reçu d’éducation religieuse ?
+    </p>
+    <p>
+     – Oui, un peu, jusqu’à ma première communion. Après, ce fut fini. Et chez les Bertrave, je ne pouvais que m’enfoncer encore dans mon incroyance. Daniel, lui, s’est marié à l’église, parce que sa fiancée, bien que chrétienne assez tiède, y tenait absolument. Mais moi, je n’ai pas essayé de vaincre la résolution de Gilbert à ce sujet. Cela m’était indifférent, car je n’avais plus la foi.
+    </p>
+    <p>
+     Michelle dit avec compassion :
+    </p>
+    <p>
+     – Ma pauvre cousine !
+    </p>
+    <p>
+     – Oui, vous avez raison de me plaindre. Je souffre de toutes façons. Car je me demande ce que sera l’avenir. Gilbert ne veut pas voir de médecin, il veut mourir comme cela, seul... Et cependant, je ne puis suffire à le soigner, je ne puis... Oh ! que tout cela m’épouvante !
+    </p>
+    <p>
+     Elle cacha son visage entre ses mains.
+    </p>
+    <p>
+     – ... Et si M. de Bertrave devine quelque chose ?... Et si... si un événement terrible se produit ?...
+    </p>
+    <p>
+     Michelle posa doucement sa main sur le poignet brûlant.
+    </p>
+    <p>
+     – Demain est à Dieu, ma cousine. Accomplissons chaque jour notre devoir, sans chercher à voir au-delà.
+    </p>
+    <p>
+     – Oui, vous avez raison. Alors, vous voulez bien ?...
+    </p>
+    <p>
+     – Je vous suivrai près de lui dès que vous le voudrez.
+    </p>
+    <lb/>
+    <p>
+     *
+    </p>
+    <lb/>
+    <p>
+     Ce soir-là, à la nuit complète, deux silhouettes de femmes se glissèrent dans le corridor qui continuait, dans l’aile, celui du principal corps de logis. L’atmosphère, ici, sentait le moisi, la poussière longuement accumulée. Dans le carrelage brisé, des fissures se creusaient, propices aux entorses. La lanterne que tenait M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave projetait au passage de brefs éclats de lumière sur les murs écaillés et noircis, sur les portes closes aux serrures rouillées.
+    </p>
+    <p>
+     Tout au bout, la jeune femme s’arrêta en expliquant à voix basse :
+    </p>
+    <p>
+     – Nous l’avons logé le plus loin possible, et dans une chambre donnant sur la partie abandonnée du jardin, pour qu’on ne voie pas le soir sa lumière... Voulez-vous m’attendre un instant ici ? Je vais le prévenir.
+    </p>
+    <p>
+     Elle ouvrit une porte et disparut, emportant la lanterne. Michelle se trouva dans l’obscurité complète. Elle joignit les mains en priant :
+    </p>
+    <p>
+     – Seigneur, faites que je puisse être utile à ce malheureux !
+    </p>
+    <p>
+     Un bruit de voix lui parvenait. On semblait se fâcher, discuter. Puis Thérèse reparut... Elle dit à mi-voix :
+    </p>
+    <p>
+     – Venez... Il ne voulait pas d’abord, mais j’ai fini par le décider... Je lui ai dit que vous étiez infirmière, à votre couvent, et que vous étiez bonne et douce...
+    </p>
+    <p>
+     Michelle la suivit. Elles entrèrent dans une grande chambre mal éclairée par une seule lampe posée sur une table, près d’un fauteuil. Un homme était assis là. Il tenait, tourné vers la porte, son visage enveloppé de bandages. Michelle s’approcha, elle dit d’une voix douce, qui frémissait un peu :
+    </p>
+    <p>
+     – Mon cousin, je serai très heureuse d’aider M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave à vous soigner...
+    </p>
+    <p>
+     Il l’interrompit d’un ton âpre et douloureux :
+    </p>
+    <p>
+     – Mon cousin ? Vous m’appelez ainsi ? Et vous voulez me soigner ? Cependant, Thérèse vous a tout raconté ?
+    </p>
+    <p>
+     – Oui. Mais j’ai compris aussi que vous regrettiez... Et puis, vous souffrez. Cela nous suffit à nous, servantes du Christ. Nous n’avons pas à juger les consciences... Voulez-vous me permettre d’essayer de remplacer Augustine ?
+    </p>
+    <p>
+     Il murmura avec un geste de lassitude :
+    </p>
+    <p>
+     – Faites.
+    </p>
+   </div>
+   <div title="III" type="chapter">
+    <head>
+     III
+    </head>
+    <lb/>
+    <p>
+     L’hiver fut rigoureux cette année-là. Pendant les mois de janvier et février, Serpignade demeura sous la neige. En dépit d’une grosse dépense de combustible, on ne parvenait pas à réchauffer la vieille maison, trop vaste et délabrée. M. de Bertrave ne quittait pas sa chambre ou son cabinet, tous deux au rez-de-chaussée. Les enfants jouaient dans la salle à manger où travaillaient Thérèse et Michelle. Dans la chambre de Gilbert, Anselme faisait de grands feux qui n’arrivaient pas à réchauffer le malade, toujours grelottant.
+    </p>
+    <p>
+     Cependant, les progrès du terrible mal semblaient enrayés depuis quelque temps. S’il n’y avait pas d’amélioration très sensible, l’état ne s’était pas aggravé, comme Michelle le faisait remarquer à M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave. Car la jeune fille continuait à donner ses soins à Gilbert, qui trouvait ses mains plus douces que celles d’Augustine et appréciait le soulagement que lui procurait certain onguent fait par elle, selon une recette des religieuses de Sainte-Thècle. L’accueil du malade restait raide, un peu farouche. Mais quand Michelle avait fini le pansement, des doigts décharnés serraient sa main, et la voix brève disait :
+    </p>
+    <p>
+     – Merci.
+    </p>
+    <p>
+     Il ne parlait guère, même à sa femme. Dans les orbites creuses, ses yeux s’enfonçaient sombres et d’une tristesse infinie qui faisait frémir de pitié le cœur de Michelle. À certains moments, il endurait des souffrances atroces. Alors, il gémissait sourdement, avec un regard de bête blessée. Lorsque le mieux revenait, il lisait ou restait, des heures, immobile, plongé dans quelque rêverie morne.
+    </p>
+    <p>
+     M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave, maintenant que Michelle connaissait son secret, avait dépouillé à l’égard de la jeune fille son apparence indifférente. Elle lui parlait de ses angoisses, et semblait trouver quelque soulagement dans les paroles consolatrices que dictaient à Michelle la délicatesse de son cœur, l’ardeur de sa foi. Elle lui disait parfois :
+    </p>
+    <p>
+     – Comme je vous envie de croire ainsi ! Michelle répondait avec un sourire très doux :
+    </p>
+    <p>
+     – Vous aussi, vous croirez un jour.
+    </p>
+    <p>
+     Le climat du Jura semblait éprouver la jeune fille – à moins que ce ne fût le changement d’existence. Sa santé devenait précaire. En dépit de ses protestations, Thérèse, vers la fin de février, fit venir le médecin. Celui-ci fut rassurant, parla d’anémie, donna quelques remèdes. Ceux-ci ne produisirent aucun résultat. Et Michelle continua de s’affaiblir.
+    </p>
+    <p>
+     Un jour, comme elle terminait le pansement, Gilbert lui demanda :
+    </p>
+    <p>
+     – Savez-vous lire à haute voix ?
+    </p>
+    <p>
+     – Mais oui, mon cousin. Nous lisons toujours ainsi au réfectoire.
+    </p>
+    <p>
+     – Voudriez-vous me faire de temps à autre la lecture ?
+    </p>
+    <p>
+     Elle acquiesça aussitôt, en faisant observer toutefois :
+    </p>
+    <p>
+     – Cela dépend de ce que vous me ferez lire.
+    </p>
+    <p>
+     Il répondit vivement :
+    </p>
+    <p>
+     – Oh ! je choisirai, ne craignez rien !
+    </p>
+    <p>
+     Elle vint donc chaque jour remplir près de lui ses fonctions de lectrice. Il semblait moins souffrir depuis quelque temps, le mal terrible qui lui rongeait le visage changeait d’aspect, paraissait s’orienter vers une amélioration. En même temps, ses forces revenaient. Il dit un jour :
+    </p>
+    <p>
+     – Je me sens vraiment mieux.
+    </p>
+    <p>
+     Sa chambre était triste, car le lierre couvrant les fenêtres interceptait la lumière déjà rare de ce côté. La tapisserie tombait par lambeaux, le plafond se dégradait. Quand vint le soleil de mars, il ne put arriver jusqu’à la pièce sombre, et le feuillage épais arrêta au passage l’air frais chargé des arômes du printemps.
+    </p>
+    <p>
+     – Cela ferait tant de bien à mon pauvre Gilbert s’il pouvait sortir un peu dans le jardin ! disait Thérèse à Michelle.
+    </p>
+    <p>
+     Mais on n’y pouvait songer. Et Gilbert devait se contenter de ce soupçon d’air et de lumière. Il ne s’en plaignait pas, d’ailleurs. Un jour, il dit à sa femme :
+    </p>
+    <p>
+     – C’est encore mieux que la cellule d’une prison, ou que le bagne où je pourrais être aujourd’hui.
+    </p>
+    <p>
+     Il était rare qu’il rappelât ces souvenirs. Mais on les sentait vivants en lui autant qu’aux premiers jours après son crime.
+    </p>
+    <p>
+     Un matin, comme Michelle entrait dans la salle à manger pour le déjeuner, Thérèse lui dit :
+    </p>
+    <p>
+     – Qu’est-ce que cette tache rouge que vous avez au visage, Michelle ?
+    </p>
+    <p>
+     – Je ne sais. Je l’ai remarquée depuis quelques jours. Ce ne sera rien, je pense.
+    </p>
+    <p>
+     Mais bientôt une sorte d’excoriation apparut. Elle s’agrandit, une plaie parut se former. Le médecin, consulté, déclara d’abord que c’était un bobo sans importance et prescrivit des applications de pommade. Puis, au bout de quelques jours, il prononça le mot de cancer et parla d’opération.
+    </p>
+    <p>
+     Michelle ne parut pas effrayée. Elle dit seulement, avec beaucoup de calme :
+    </p>
+    <p>
+     – Oh ! l’opération sera inutile.
+    </p>
+    <p>
+     Quand le médecin eut disparu, M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave murmura :
+    </p>
+    <p>
+     – Michelle, Michelle, c’est en « le » soignant que vous avez gagné cela !
+    </p>
+    <p>
+     La jeune fille secoua la tête.
+    </p>
+    <p>
+     – Certainement non. Je prends toutes les précautions nécessaires. Ne vous faites pas de reproches, Thérèse. Cela arrive par la volonté de Dieu !
+    </p>
+    <p>
+     – Comme vous êtes calme ! Mais vous guérirez ! À votre âge, l’opération réussira...
+    </p>
+    <p>
+     – Je vous le répète : elle sera inutile.
+    </p>
+    <p>
+     – Il faut qu’elle soit faite, Michelle ! Gilbert dira de même quand il saura.
+    </p>
+    <p>
+     Le soir, lorsque Michelle alla panser le malade, celui-ci lui demanda en la regardant fixement :
+    </p>
+    <p>
+     – Il paraît que vous avez pris mon mal, ma cousine ?
+    </p>
+    <p>
+     Elle se troubla un peu, rougit et balbutia :
+    </p>
+    <p>
+     – Je l’avais dans le sang, probablement.
+    </p>
+    <p>
+     – Pourquoi ne voulez-vous pas d’opération ?
+    </p>
+    <p>
+     – Cela reviendrait certainement.
+    </p>
+    <p>
+     – Comment le savez-vous ?
+    </p>
+    <p>
+     Sa rougeur s’accentua, tandis qu’elle répondait, l’air gêné :
+    </p>
+    <p>
+     – Mais cela se produit si souvent, paraît-il !
+    </p>
+    <p>
+     Et d’une main tremblante elle commença à défaire le bandage. Quand ce fut fait, Gilbert demanda :
+    </p>
+    <p>
+     – Eh bien ! est-ce toujours mieux ?
+    </p>
+    <p>
+     – Beaucoup mieux.
+    </p>
+    <p>
+     – Pensez-vous que je guérirai ?
+    </p>
+    <p>
+     – Oh ! je l’espère bien !
+    </p>
+    <p>
+     – Dites donc que vous en êtes sûre ? Dites donc que vous vous êtes offerte à votre Dieu pour souffrir, pour mourir à ma place ?
+    </p>
+    <p>
+     De nouveau, une pourpre ardente monta au visage de Michelle. M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave s’écria, en joignant les mains :
+    </p>
+    <p>
+     – Serait-ce vrai ? Oh ! Michelle ! Michelle !
+    </p>
+    <p>
+     La jeune fille murmura :
+    </p>
+    <p>
+     – Voyons, qu’imaginez-vous ?...
+    </p>
+    <p>
+     Ses yeux se détournaient de ces regards attachés sur elle.
+    </p>
+    <p>
+     Gilbert lui saisit la main.
+    </p>
+    <p>
+     – Oui, j’ai bien deviné !... C’est fou, cela !... C’est fou ! À votre âge !... Et toute pure, toute innocente comme vous l’êtes ! Tandis que moi, je suis un criminel...
+    </p>
+    <p>
+     Un regard rayonnant d’une douceur surnaturelle s’attacha sur lui.
+    </p>
+    <p>
+     – Qu’importe mon âge ! Qu’importe tout ! Si vous saviez comme il est bon de souffrir pour Dieu et pour le salut des âmes !
+    </p>
+    <p>
+     Il demanda d’une voix que l’émotion enrouait :
+    </p>
+    <p>
+     – C’est pour le salut de nos âmes que vous faites cela, Michelle ?
+    </p>
+    <p>
+     Elle répondit oui de la tête. Puis ses doigts agiles commencèrent le pansement. Les deux époux se taisaient maintenant. Mais quand Michelle prit congé du malade, il lui serra très longuement la main en murmurant :
+    </p>
+    <p>
+     – Je ne saurai jamais vous remercier !
+    </p>
+    <p>
+     Et Thérèse, en quittant un peu après la jeune fille à la porte de sa chambre, la pressa contre elle en l’appelant :
+    </p>
+    <p>
+     – Ma chère petite sœur !
+    </p>
+    <p>
+     Ce soir-là, Michelle récita du fond du cœur un
+     <seg rend="t4">
+      Magnificat
+     </seg>
+     , en terminant ses oraisons, et aucun être, dans tout Serpignade, ne s’endormit avec plus de joie au cœur.
+    </p>
+    <p>
+     Quand vint l’été, le visage de Gilbert ne gardait plus qu’une trace légère de son mal terrible. Ses forces revenaient, et l’inaction, l’existence claustrée dans la chambre sombre lui pesaient de plus en plus. Il parlait déjà de partir, de chercher à gagner sa vie, puisqu’il ne pouvait demeurer que secrètement dans la demeure paternelle.
+    </p>
+    <p>
+     Maintenant, un bandage couvrait une partie du visage de Michelle. La jeune fille avait dû renoncer à se rendre à l’église. Faible et languissante, elle ne pouvait plus que se traîner dans la maison, parfois dans le jardin. Cependant, elle se rendait encore une ou deux fois dans la semaine chez le prisonnier volontaire. Sur sa demande, elle lui parlait du couvent, de ses habitantes. Il l’interrogeait aussi sur la religion, et semblait écouter ses réponses avec un intérêt croissant.
+    </p>
+    <p>
+     Un jour, devant elle, il dit à sa femme :
+    </p>
+    <p>
+     – Il faudra faire donner une instruction chrétienne à nos enfants, Thérèse. Si j’avais eu une croyance, un fonds de religion, j’aurais été un autre homme.
+    </p>
+    <p>
+     Elle objecta :
+    </p>
+    <p>
+     – Grand-père ne voudra jamais.
+    </p>
+    <p>
+     Gilbert secoua la tête.
+    </p>
+    <p>
+     – Il voudra, si vous savez vous y prendre. Je suis bien sûr qu’au fond il reconnaît comme nous la faillite de cette incroyance qu’il nous a imposée jadis.
+    </p>
+    <p>
+     Quand Michelle entendit cela, elle pensa que toutes ses souffrances n’étaient pas de trop pour payer une joie semblable.
+    </p>
+    <p>
+     Et cependant, quelles souffrances ! Parfois, la nature se révoltait à la pensée de cette destruction lente, de cette plaie rongeant sa chair, de ses forces défaillantes. La mort, venant là, tout de suite, lui eût semblé douce, puisqu’elle l’aurait réunie aussitôt à son Sauveur. Mais cette fin lente, terrible...
+    </p>
+    <p>
+     Elle frissonnait et priait davantage pour reprendre courage, pour suivre la voie royale du sacrifice où son Dieu la précédait, portant sa croix pour les pécheurs.
+    </p>
+    <p>
+     Elle avait aussi les heures de consolation radieuse, les heures divines du banquet eucharistique, les heures d’espoir quand elle pensait au salut de ces pécheurs si proches d’elle. Alors, toutes ses angoisses s’abolissaient pour laisser place à la joie ardente qui anime les martyrs et les confesseurs.
+    </p>
+    <p>
+     Le vieux M. de Bertrave lui témoignait maintenant quelque intérêt. Il s’informait avec pitié des progrès du mal et recommandait à Thérèse qu’on la soignât le mieux possible. Déjà, auparavant, il avait voulu que Michelle consultât le meilleur chirurgien de Besançon. Celui-ci déclara :
+    </p>
+    <p>
+     – Je puis tenter l’opération. Mais la nature du mal ne laisse que peu d’espoir. Et l’intervention chirurgicale peut hâter l’issue fatale. Il est vrai qu’elle diminuera aussi la durée des souffrances,
+    </p>
+    <p>
+     En entendant cela, Michelle dit simplement :
+    </p>
+    <p>
+     – J’aime mieux qu’on ne m’opère pas.
+    </p>
+    <p>
+     Assise dans sa chambre ou dans la salle à manger, elle travaillait, lisait, ou jouait avec les enfants quand sa faiblesse n’était pas trop grande. Profitant du consentement donné par Gilbert et sa femme, elle commençait avec discrétion – à cause du grand-père – l’enseignement religieux des petites âmes délaissées. Tous trois l’écoutaient avec une attention très vive. Les beaux yeux de Régis s’attachaient sur elle, profonds et chercheurs. Souvent ils s’animaient de tendresse apitoyée, et l’enfant, s’appuyant câlinement contre Michelle, demandait :
+    </p>
+    <p>
+     – Est-ce que vous aurez mal longtemps, dites, cousine Michelle ?
+    </p>
+    <p>
+     – Non, plus très longtemps maintenant, mon chéri.
+    </p>
+    <p>
+     – Alors, on vous enlèvera tous ces linges ? On verra votre figure comme avant ?
+    </p>
+    <p>
+     – Mais oui, je le pense, Régis.
+    </p>
+    <p>
+     En disant cela, elle songeait avec un mélange d’allégresse et de terreur :
+    </p>
+    <p>
+     « Bientôt... oui, bientôt, tout sera fini. »
+    </p>
+    <p>
+     Car elle sentait le mal affreux resserrer son étreinte. Peu à peu, elle cessa de descendre, puis elle ne quitta plus son lit. Le médecin hochait la tête en disant :
+    </p>
+    <p>
+     – Cette maladie a une marche singulière, qui me déroute.
+    </p>
+    <p>
+     Le courage patient, la gaieté de la jeune fille étaient un sujet d’admiration pour son entourage. M. de Bertrave convenait que cette petite religieuse était héroïque. Et Thérèse pensait :
+    </p>
+    <p>
+     « Que serait-ce donc, s’il connaissait le degré de cet héroïsme ! »
+    </p>
+    <p>
+     La jeune femme endurait de grands tourments. Gilbert, complètement remis, comptait partir à l’automne pour regagner l’Amérique, y tenter de nouveau la chance. Et la pensée de cette seconde séparation, cependant inévitable, désolait Thérèse.
+    </p>
+    <p>
+     Un jour, elle demanda :
+    </p>
+    <p>
+     – Si je suppliais grand-père de te pardonner ? Peut-être, maintenant...
+    </p>
+    <p>
+     Gilbert l’interrompit avec violence :
+    </p>
+    <p>
+     – Jamais ! Jamais ! Il a été impitoyable autrefois. Je le méritais, c’est vrai. Cependant, il aurait pu se demander si je n’avais pas été provoqué, poussé à bout. Il aurait pu se dire aussi que, ne m’ayant donné aucun frein moral, il ne lui était peut-être pas permis de m’accabler ainsi... Non, ne lui dites rien ! Ne lui parlez jamais de moi. Je veux rester mort pour lui.
+    </p>
+    <p>
+     Thérèse gémit :
+    </p>
+    <p>
+     – Mais nous, Gilbert ? Nos enfants ? Pensez donc, vos filles ne vous connaissent pas !
+    </p>
+    <p>
+     Le visage de Gilbert frémit un peu. Mais il dit fermement :
+    </p>
+    <p>
+     – Plus tard, quand grand-père ne sera plus de ce monde, et que je me serai fait une position, nous nous réunirons. Jusque-là, restez près de lui.
+    </p>
+    <p>
+     Maintenant, Michelle ne se levait plus. Elle attendait la mort paisiblement. Ses accès de découragement, d’effroi, devenaient plus rares, car elle était toute résignée et joyeuse à l’idée de voir bientôt son Seigneur.
+    </p>
+    <p>
+     M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave et Augustine la soignaient avec dévouement. Toutes deux se remplaçaient près de la jeune malade si calme, si patiente, et qui savait sourire au milieu même de ses souffrances. Michelle les remerciait avec effusion. Et, à l’une et l’autre, elle parlait de Dieu, discrètement, et de la cité céleste dont elle allait bientôt franchir les portes. Elles l’écoutaient avec émotion et disaient toutes deux :
+    </p>
+    <p>
+     – On nous a appris cela, autrefois. Ce serait bon d’y croire encore.
+    </p>
+    <p>
+     Le soir, quand l’aïeul était retiré dans son appartement, Thérèse allait parfois chercher son mari et l’amenait près de la jeune mourante. Gilbert, très ému, serrait la petite main décharnée en disant :
+    </p>
+    <p>
+     – Ma pauvre Michelle, c’est moi qui devrais être au point où vous vous trouvez aujourd’hui ! Pourquoi avez-vous fait cette demande à votre Dieu ?
+    </p>
+    <p>
+     Elle répondait avec un sourire angélique :
+    </p>
+    <p>
+     – Pour votre salut.
+    </p>
+    <p>
+     – Ah ! si je devais croire un jour, Michelle, c’est bien vous qui m’y auriez engagé, par votre foi, votre patience, votre charité !
+    </p>
+    <p>
+     Un soir, sur une question de Michelle mise au courant par M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave, il parla de son projet de départ. La jeune fille secoua la tête.
+    </p>
+    <p>
+     – Non, il ne faut pas partir, du moins pas avant que votre grand-père vous ait revu et pardonné.
+    </p>
+    <p>
+     – Jamais je ne le reverrai.
+    </p>
+    <p>
+     Michelle n’insista pas. Mais quand Gilbert fut parti, elle pria longtemps avec ferveur.
+    </p>
+    <p>
+     Pendant ses longues insomnies, elle se transportait en esprit dans son cher monastère. Elle se revoyait dans la petite chapelle un peu sombre, dont les vieux murs semblaient s’être imprégnés du parfum de l’encens et de celui des lis et des roses qui fleurissaient l’autel, aux jours d’été. Des voix volontairement monotones psalmodiaient les louanges du Seigneur. Puis c’était le grand silence de l’oraison... Et les âmes recueillies parlaient à Dieu. Elles lui exposaient leurs besoins, elles lui redisaient leurs actions de grâces, elles priaient pour les pécheurs. Et certaines d’entre elles, les plus pures, les plus humbles, s’élevaient, en ces heures divines, jusqu’à la contemplation.
+    </p>
+    <p>
+     Puis Michelle revoyait les visages familiers : l’abbesse, si maternelle et si ferme, la petite Mère Agnès du Rédempteur, qui était maîtresse des novices, et Mère Cécile de Jésus, si vive et si gaie... et surtout Marguerite de l’Incarnation, avec ses yeux de prédestinée et son âme de séraphin. Celle-là, Michelle la priait chaque jour comme une sainte. Elle lui disait : « Ma Sœur chérie, obtenez que je ne languisse pas trop dans les flammes du purgatoire après ma mort, pour que j’aille bien vite vous retrouver près de notre bien-aimé Seigneur. » Et quand elle avait fait cette prière, elle sentait comme une suavité mystérieuse pénétrer son cœur, en le remplissant de consolation.
+    </p>
+    <p>
+     Un matin, sentant que la mort approchait, elle demanda à voir M. de Bertrave. Celui-ci arriva en se traînant à l’aide de deux cannes. Les yeux bleus si purs et si beaux s’attachèrent sur lui dès son entrée, et Michelle dit d’une voix toute faible :
+    </p>
+    <p>
+     – Je vais mourir, mon cousin, et tandis que j’ai encore toute ma connaissance, je veux vous remercier de l’hospitalité si généreuse que vous m’avez accordée...
+    </p>
+    <p>
+     Il l’interrompit d’un ton enroué par l’émotion :
+    </p>
+    <p>
+     – Non, ma chère enfant, ne me remerciez pas ! C’était trop naturel de la part de votre seul parent. Et j’aurais voulu que, de cette hospitalité, vous jouissiez longtemps, très longtemps.
+    </p>
+    <p>
+     Les doigts noués par les rhumatismes serraient la main de la jeune fille. Michelle eut un doux petit sourire ému.
+    </p>
+    <p>
+     – Non, vous voyez, je m’en vais. Dieu rappelle à lui sa petite servante. C’est une grande grâce qu’il me fait. Car, si bons que vous soyez tous, vous comprenez, j’étais comme une exilée, hors de mon couvent.
+    </p>
+    <p>
+     – Oui, je comprends... C’est votre vie que cette loi infâme a brisée, ma pauvre enfant. Nous avons été néanmoins heureux de vous accueillir ; vous nous avez fait du bien.
+    </p>
+    <p>
+     Une sorte de buée mouillait ses yeux. Michelle murmura :
+    </p>
+    <p>
+     – J’en remercie Dieu !
+    </p>
+    <p>
+     Après une courte pause, elle ajouta :
+    </p>
+    <p>
+     – Je voudrais vous demander...
+    </p>
+    <p>
+     – Dites, mon enfant.
+    </p>
+    <p>
+     – Thérèse m’a raconté... vos malheurs. Je sais que vous avez chassé votre fils et que vous ne lui pardonnez pas...
+    </p>
+    <p>
+     Il l’interrompit brusquement :
+    </p>
+    <p>
+     – Ne me parlez pas de cela, Michelle !
+    </p>
+    <p>
+     – Si, je voudrais vous en parler... Il a été très malade, il a le repentir de cette heure de terrible folie. Ne voulez-vous pas lui pardonner ?
+    </p>
+    <p>
+     M. de Bertrave se leva en repoussant sa chaise avec violence.
+    </p>
+    <p>
+     – Non !
+    </p>
+    <p>
+     Et, sur ce mot, il tourna les talons et sortit de la chambre.
+    </p>
+    <p>
+     Michelle laissa retomber sur son oreiller sa tête affaiblie. Elle joignit les mains en disant tout bas :
+    </p>
+    <p>
+     – Seigneur, vous pouvez changer ce cœur ! Donnez la paix à cette famille avec votre amour et réunissez ce qui est désuni.
+    </p>
+    <lb/>
+    <p>
+     *
+    </p>
+    <lb/>
+    <p>
+     Maintenant, la fin était proche. Le curé de Saint-Nicolas allait venir, apportant les derniers sacrements. M. de Bertrave, Thérèse, Augustine, Anselme, étaient là. Gilbert seul manquait. Entre les lèvres de Michelle, les mots passaient difficilement. Elle dit pourtant, distinctement :
+    </p>
+    <p>
+     – Faites venir Gilbert.
+    </p>
+    <p>
+     Le vieillard tressaillit. Son regard, se dirigeant vers Thérèse, disait :
+    </p>
+    <p>
+     – Son cerveau se dérange, pauvre enfant !
+    </p>
+    <p>
+     Thérèse détourna les yeux, mais Michelle répéta d’un ton de prière :
+    </p>
+    <p>
+     – Faites venir Gilbert.
+    </p>
+    <p>
+     Alors M
+     <seg rend="t9">
+      me
+     </seg>
+     de Bertrave se leva et sortit. D’en bas montait le tintement de la clochette agitée par l’enfant de chœur précédant le prêtre. Au moment où celui-ci atteignait le palier du premier étage, il se rencontra avec un homme de haute taille, au beau visage pâle et agité, qui s’inclina respectueusement. Et derrière lui, cet homme entra.
+    </p>
+    <p>
+     À sa vue, M. de Bertrave eut un haut-le-corps. Une exclamation s’étrangla dans sa gorge et il se retint au fer du lit en rencontrant le regard douloureux de son fils.
+    </p>
+    <p>
+     Mais aucun d’eux ne prononça une parole. Le respect de cette Présence, à laquelle ils ne croyaient pas, mais qu’ils sentaient là cependant, la volonté de ne pas troubler les derniers instants de cette mourante, leur fermaient la bouche en cette minute tragique d’une rencontre qui pouvait être terrible.
+    </p>
+    <p>
+     Quand le prêtre eut prononcé quelques mots, il se détourna pour prendre l’Hostie sainte. Alors, Michelle fit signe aux deux hommes d’approcher. Elle saisit la main de M. de Bertrave, celle de Gilbert, et tenta de les réunir. L’aïeul eut un mouvement pour la retirer. Michelle murmura :
+    </p>
+    <p>
+     – Oh ! si, il faut... devant Dieu, devant Jésus qui a tant pardonné !...
+    </p>
+    <p>
+     Son regard, un peu voilé, s’éclairait d’une lumière mystérieuse. Le visage de M. de Bertrave frémit. L’aïeul regarda la physionomie altérée de son fils, et ses doigts s’unirent à ceux de Gilbert.
+    </p>
+    <p>
+     Un sourire de bonheur entrouvrit les lèvres de Michelle. Alors, le curé s’avança et lui donna son Époux divin. Puis il fit sur ses membres les onctions saintes. Elle répondait elle-même aux prières d’une voix faible, mais cependant distincte. Quand le prêtre se fut retiré, M. de Bertrave, Gilbert et les deux domestiques le suivirent, et Thérèse resta seule avec sa cousine. Elle se tenait immobile dans un coin de la chambre pour ne pas troubler le recueillement de Michelle. Au bout de peu de temps, celle-ci l’appela.
+    </p>
+    <p>
+     – Priez mes cousins de venir, Thérèse.
+    </p>
+    <p>
+     Les deux hommes rentrèrent. Ils s’approchèrent du lit. Michelle essaya de soulever sa main et de leur sourire encore. Elle demanda :
+    </p>
+    <p>
+     – Vous avez... pardonné ?
+    </p>
+    <p>
+     M. de Bertrave se pencha vers elle. Une émotion puissante transformait cette physionomie que Michelle avait vue si longtemps froide et fermée.
+    </p>
+    <p>
+     – Oui, mon enfant. Comment résister à la prière de celle qui va nous quitter ? Et Gilbert m’a dit ce que vous avez fait pour lui, pour nous. Je sais maintenant pourquoi vous mourez.
+    </p>
+    <p>
+     Gilbert dit d’une voix un peu rauque :
+    </p>
+    <p>
+     – Oui, pour nous sauver tous... mais vous aurez réussi, Michelle. Une âme comme la vôtre ne peut disparaître dans le néant, je le sais, j’en suis sûr. Et je sens que votre Dieu vous attend pour vous dédommager de toutes vos souffrances.
+    </p>
+    <p>
+     Sur le mince visage blême de Michelle, il parut à tous qu’une clarté passait. La jeune fille murmura :
+    </p>
+    <p>
+     – Oui, Il m’attend... Il m’attend.
+    </p>
+    <p>
+     Et puis elle ne parla plus. Ses paupières s’abaissèrent et son âme commença à quitter la terre. Elle se revoyait dans le jardin de Sainte-Thècle, tout rempli de lis et de roses. Comme l’air était doux, et quelle délicieuse senteur ! Elle s’en allait vers le petit cimetière fleuri, en écoutant la voix pure et calme de Marguerite de l’Incarnation. Que disait-elle, cette voix ? « Par la prière et l’exemple, sauvez ce qui semble perdu, et donnez votre vie, s’il le faut, en véritable épouse de Jésus crucifié. » Et intérieurement, Michelle répondait : « Je l’ai fait, ma Sœur, vous voyez, je l’ai fait autant que je l’ai pu. »
+    </p>
+    <p>
+     Maintenant, elle ne voyait plus très bien... Il lui semblait que la nuit arrivait. Les senteurs des fleurs monacales devenaient plus délicates, et l’air avait la douceur d’une caresse. Cette obscurité n’était pas pénible. Michelle attendait... Elle attendait la venue de l’Époux.
+    </p>
+    <p>
+     Et voici qu’un voile s’écartant, elle le vit. Du sein de sa splendeur éblouissante, il l’appelait : « Viens, ma fiancée, mon épouse, viens, toi qui m’as aidé à sauver des âmes. » Et Marie-Madeleine de la Croix, quittant la terre, s’abîma dans l’amour divin.
+    </p>
+    <lb/>
+    <p>
+     *
+    </p>
+    <lb/>
+    <p>
+     Douze ans plus tard, deux hommes entraient, vers la fin d’un après-midi d’été, dans le cimetière de Serpignade. L’un, grand et de belle mine, avait un beau visage calme et fier et des cheveux grisonnants. L’autre était un jeune séminariste, à la physionomie déjà virile et d’une rare intelligence. La douceur et l’énergie se mêlaient dans le regard franc de ses grands yeux noirs. Physiquement, il ressemblait à son compagnon. Et c’était, en effet, l’oncle et le neveu : Gilbert de Bertrave et Régis.
+    </p>
+    <p>
+     Au fond du petit cimetière planté d’ifs et de saules se dressait la vieille sépulture de granit des Bertrave. Sur deux plaques de marbre proches l’une de l’autre se lisaient ces mots :
+    </p>
+    <lb/>
+    <p>
+     Ici repose
+    </p>
+    <p>
+     Michelle-Marie de GAZAN
+    </p>
+    <p>
+     <seg rend="t4">
+      Saintement retournée à Dieu
+     </seg>
+    </p>
+    <p>
+     <seg rend="t4">
+      à l’âge de 25 ans.
+     </seg>
+    </p>
+    <p>
+     Ici repose
+    </p>
+    <p>
+     <seg rend="t4">
+      Ludovic-Henry, vicomte de Bertrave
+     </seg>
+    </p>
+    <p>
+     <seg rend="t4">
+      Rappelé par Dieu à l’âge de 82 ans.
+     </seg>
+    </p>
+    <lb/>
+    <p>
+     Gilbert et son neveu s’agenouillèrent. Pendant un long moment, ils prièrent. Les morts qui reposaient là étaient si nombreux ! M. de Bertrave avait pris son visage entre ses mains. Il voulait dérober à Régis l’émotion poignante qui le saisissait, chaque fois, devant la sépulture familiale. Car là était enseveli le frère qu’il avait tué dans un accès de cette violence qu’aucune éducation chrétienne n’avait réprimée chez lui, pas plus que n’avaient été endigués, chez son aîné, l’orgueil et l’amour de la jouissance.
+    </p>
+    <p>
+     Au-dessus de la pierre tombale, une croix se dressait, autour de laquelle montait un rosier. Des pétales blancs s’effeuillaient, tombaient sur le granit sombre. Dans les vasques de pierre se dressaient de grands lis dont le parfum grisant se mêlait à la délicate senteur des roses. Gilbert et Thérèse s’étaient souvenus de la description que Michelle leur avait faite du jardin de Sainte-Thècle, et ils avaient voulu que les fleurs chères à la jeune moniale fussent chaque été l’ornement de cette tombe, sur laquelle, souvent, ils venaient prier, en remerciant Dieu de leur avoir envoyé sa servante comme une messagère de salut.
+    </p>
+    <p>
+     Car la mort héroïque de Michelle avait porté ses fruits. Le vieux M. de Bertrave s’était éteint dans les plus édifiants sentiments de foi et de repentir. Gilbert et Thérèse étaient devenus de fervents chrétiens, et leurs filles, leur neveu, avaient reçu une forte éducation religieuse. Enfin – couronnement suprême du sacrifice de la jeune religieuse exilée, – Régis avait écouté la voix divine qui l’appelait à la carrière sacerdotale.
+    </p>
+    <p>
+     D’en haut, Marie-Madeleine de la Croix devait sourire à ces pécheurs revenus à Dieu et qui trouvaient dans la foi le remède à leurs rudes épreuves, l’apaisement de leurs remords. Elle devait considérer avec ravissement ce jeune homme qui se préparait avec une piété ardente aux responsabilités et aux joies austères du sacerdoce, ce Régis à l’âme forte et tendre dont ses maîtres disaient : « Il sera un saint prêtre. »
+    </p>
+    <p>
+     Et dans la paix du jour finissant, les derniers reflets de lumière, l’arôme plus pénétrant des corolles alanguies, la douceur tiède du soir enveloppèrent les deux hommes penchés vers cette tombe : le pécheur repentant et le jeune clerc à l’âme pure qui priaient pour leurs défunts.
+    </p>
+    <lb/>
+    <lb/>
+    <lb/>
+    <lb/>
+    <lb/>
+    <p>
+     Cet ouvrage est le 241
+     <seg rend="t9">
+      e
+     </seg>
+     publié
+    </p>
+    <p>
+     dans la collection
+     <seg rend="t4">
+      Classiques du 20
+     </seg>
+     <seg rend="t10">
+      e
+     </seg>
+     <seg rend="t4">
+      siècle
+     </seg>
+    </p>
+    <p>
+     par la Bibliothèque électronique du Québec.
+    </p>
+    <lb/>
+    <lb/>
+    <p>
+     La Bibliothèque électronique du Québec
+    </p>
+    <p>
+     est la propriété exclusive de
+    </p>
+    <p>
+     Jean-Yves Dupuis.
+    </p>
+   </div>
+   <head/>
+  </body>
+  <back/>
+ </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     La rumeur dans la montagne
+    </title>
+    <author from="2014" key="" name="Maurice Renard" to="2014"/>
+    <edition n=""/>
+    <editor name="" where=""/>
+   </titleStmt>
+   <publicationStmt>
+    <date type="created" when="2014"/>
+    <date type="issued" when="2014"/>
+   </publicationStmt>
+   <editionStmt>
+    <profileDesc tag="canon" type="genre">
+     <textClass>
+      <keywords/>
+     </textClass>
+    </profileDesc>
+   </editionStmt>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docAuthor/>
+    <docTitle>
+     <titlePart main="La rumeur dans la montagne"/>
+     <titlePart sub=""/>
+    </docTitle>
+   </titlePage>
+  </front>
+  <body>
+   <head/>
+  </body>
+  <back/>
+ </text>
+</TEI>
