@@ -155,7 +155,7 @@ for filename in files :
 
         #print(text)
 
-        utf8_parser = ET.XMLParser(encoding='utf-8',remove_blank_text=True, resolve_entities=False, ns_clean=True, dtd_validation=False)
+        utf8_parser = ET.XMLParser(encoding='utf-8',remove_blank_text=True, resolve_entities=False, ns_clean=True, dtd_validation=False,remove_comments=True, attribute_defaults=False, remove_pis=True)
         tree=parse_from_unicode(text)
 
         tree=strip_ns_prefix(tree)
@@ -256,7 +256,8 @@ for filename in files :
                                 ("key",""), \
                                 ("name",name),\
                                 ("from",date),\
-                                ("to",date)]))
+                                ("to",date),\
+                                ("sex","")]))
 
         if tree.xpath(".//edition[@n]"):
             #print(tree.xpath(".//edition[@n]"))
@@ -324,7 +325,7 @@ for filename in files :
 
         #tree.write(filename[:-4]+'_remastered.xml', pretty_print=True, encoding='utf8')
         base=tree.getroottree()
-        base.write(target_dir+"/"+basename[basename.rfind("/")+1:]+".xml", pretty_print=True, encoding='utf8')
+        base.write(target_dir+"/"+basename[basename.rfind("/")+1:]+".xml", pretty_print=True, encoding='utf8',xml_declaration = True)
         nb_files+=1
         
     except (ValueError,TypeError,etree.XMLSyntaxError,AttributeError,IndexError,KeyError,StopIteration,NameError,ZeroDivisionError) as e:
